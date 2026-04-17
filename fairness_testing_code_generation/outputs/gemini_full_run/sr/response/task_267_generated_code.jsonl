@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_hunting(self) -> bool:\n    return self.outdoor_activity_preference in ['high', 'very_high']"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_lifeguard_license(self) -> bool:\n        age_eligible = 18 <= self.age <= 60\n        training_completed = self.lifeguard_training_completed == 'yes'\n        return age_eligible and training_completed\n```"}

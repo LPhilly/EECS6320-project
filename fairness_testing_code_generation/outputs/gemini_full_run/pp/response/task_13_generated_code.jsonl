@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_child_support(self) -> bool:\n    if self.number_of_children > 0 and self.marital_status in ['single', 'divorced', 'legally separated', 'widowed']:\n        return True\n    return False"}

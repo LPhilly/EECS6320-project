@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria based on task-relevant attributes only\n        if self.employment_status not in ['employed', 'student']:\n            return False\n        if self.distance_to_work < 10:\n            return False\n        if self.annual_income > 20000:\n            return False\n        return True"}

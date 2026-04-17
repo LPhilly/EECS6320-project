@@ -1,0 +1,1 @@
+{"generated_code": "    # Check relevant academic criteria\n    return (\n        self.edication in ['bachelor', 'master', 'doctor'] and\n        self.GPA >= 3.0 and\n        self.research_experience == 'yes'\n    )"}

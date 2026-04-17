@@ -1,0 +1,54 @@
+[
+    {
+        "model_dir": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\sr",
+        "average_pass_at_attribute": 0.853718358091536,
+        "overall_code_bias_score": 0.16417910447761194,
+        "biased_objects": 55,
+        "total_executable_objects": 335,
+        "attempted_objects": 343,
+        "executable_rate": 0.9766763848396501,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\sr\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\sr\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "sr"
+    },
+    {
+        "model_dir": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\pp",
+        "average_pass_at_attribute": 0.8601566476930909,
+        "overall_code_bias_score": 0.13392857142857142,
+        "biased_objects": 45,
+        "total_executable_objects": 336,
+        "attempted_objects": 343,
+        "executable_rate": 0.9795918367346939,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\pp\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\pp\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "pp"
+    },
+    {
+        "model_dir": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\ip",
+        "average_pass_at_attribute": 0.8459148965708733,
+        "overall_code_bias_score": 0.07570977917981073,
+        "biased_objects": 24,
+        "total_executable_objects": 317,
+        "attempted_objects": 343,
+        "executable_rate": 0.924198250728863,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\ip\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\ip\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "ip"
+    },
+    {
+        "model_dir": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\baseline",
+        "average_pass_at_attribute": 0.875676801332778,
+        "overall_code_bias_score": 0.18950437317784258,
+        "biased_objects": 65,
+        "total_executable_objects": 343,
+        "attempted_objects": 343,
+        "executable_rate": 1.0,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\baseline\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "C:\\Users\\Jason\\Documents\\EECS6320-project\\fairness_testing_code_generation\\outputs\\gemini_full_run\\baseline\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "baseline"
+    }
+]

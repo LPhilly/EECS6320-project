@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_professional_development_fund(self) -> bool:\n        return (\n            self.employment_status == 'employed' and\n            self.years_of_experience >= 5 and\n            self.certifications == 'yes'\n        )\n```"}

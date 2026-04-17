@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_lung_cancer_screening(self) -> bool:\n        age_eligible = self.age >= 50 and self.age <= 80\n        smoking_eligible = self.smoking_history == 'current_smoker' or self.smoking_history == 'former_smoker'\n        return age_eligible and smoking_eligible\n```"}

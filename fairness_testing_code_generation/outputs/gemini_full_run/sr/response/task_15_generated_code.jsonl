@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_medicaid(self) -> bool:\n        return self.annual_income <= 15000"}

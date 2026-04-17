@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_leadership_development_program(self) -> bool:\n    return (\n        self.employment_status == 'employed' and\n        self.years_of_service >= 8 and\n        self.leadership_feedback_score >= 5.0 and\n        self.education in ['bachelor', 'master', 'doctor']\n    )"}

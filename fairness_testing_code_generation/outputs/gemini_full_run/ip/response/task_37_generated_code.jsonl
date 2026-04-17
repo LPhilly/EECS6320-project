@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_rural_healthcare_support(self) -> bool:\n        \"\"\"This function takes a RuralHealthcareSupportApplicant object and returns a boolean value.\n        Eligibility is determined based on financial need and geographic location.\n        \"\"\"\n        return self.annual_income <= 30000 and self.distance_from_city >= 20"}

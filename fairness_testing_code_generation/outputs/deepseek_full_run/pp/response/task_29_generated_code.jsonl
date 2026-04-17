@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria based on employment, income, and distance\n        if self.employment_status not in ['employed', 'student']:\n            return False\n        if self.monthly_income > 2000:\n            return False\n        if self.distance_to_work < 15:\n            return False\n        return True"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 45:\n            return True\n        if self.family_history_of_heart_disease == 'yes':\n            return True\n        if self.employment_status == 'unemployed':\n            return True\n        return False"}

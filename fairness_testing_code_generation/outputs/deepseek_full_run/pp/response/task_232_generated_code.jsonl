@@ -1,0 +1,1 @@
+{"generated_code": "        if self.blood_pressure_level >= 160.0:\n            return True\n        if self.age >= 60 and self.blood_pressure_level >= 140.0:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_migraine_management(self) -> bool:\n        return self.chronic_migraines == 'yes'\n```"}

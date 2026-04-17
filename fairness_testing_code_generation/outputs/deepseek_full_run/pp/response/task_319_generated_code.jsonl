@@ -1,0 +1,1 @@
+{"generated_code": "        # Suitable if they have high empathy and relevant education\n        return (self.empathy in ['high', 'very_high'] and \n                self.education in ['bachelor', 'master', 'doctor'] and\n                self.major in ['psychology', 'social_work'])"}

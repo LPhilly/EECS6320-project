@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria based on household income and number of children\n        income_limit = 20000\n        if self.household_income <= income_limit and self.number_of_children >= 2:\n            return True\n        return False"}

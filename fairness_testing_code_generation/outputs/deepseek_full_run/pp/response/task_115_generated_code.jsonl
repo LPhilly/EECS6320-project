@@ -1,0 +1,1 @@
+{"generated_code": "        # Check if training hours are at least 1500\n        if self.training_hours_completed >= 1500:\n            return True\n        # If training hours are 1000, check age is at least 45\n        elif self.training_hours_completed == 1000 and self.age >= 45:\n            return True\n        else:\n            return False"}

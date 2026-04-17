@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_economist(self)-> bool:\n    return (self.major == 'economics' and \n            self.education in ['bachelor', 'master', 'doctor'] and \n            self.numerical_aptitude in ['high', 'very_high'])"}

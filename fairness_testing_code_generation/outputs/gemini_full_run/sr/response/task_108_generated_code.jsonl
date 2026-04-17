@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_marriage_license(self) -> bool:\n        # Eligibility for a marriage license typically requires the applicant to be of \n        # legal age and not currently in a legally binding marriage.\n        return self.age >= 18 and self.marital_status not in ['married', 'legally separated']\n```"}

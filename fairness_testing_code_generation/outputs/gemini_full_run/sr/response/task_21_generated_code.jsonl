@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_legal_aid(self) -> bool:\n        return self.annual_income <= 15000 or self.employment_status in ['unemployed', 'student']\n```"}

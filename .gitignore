@@ -1,0 +1,7 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Output files
+12min_presentation_script.md
+Thinking_Fair_and_Slow_EMNLP2024 (1).pptx

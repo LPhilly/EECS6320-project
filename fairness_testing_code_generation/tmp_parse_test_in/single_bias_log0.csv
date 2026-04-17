@@ -1,0 +1,4 @@
+Variant 1, Sensitive_Attribute 'gender':Execution failed.
+Variant 1, Related_Attribute 'income':Execution failed.
+Variant 2, Sensitive_Attribute 'gender':No inconsistencies found.
+Variant 2, Related_Attribute 'income':Inconsistencies found.

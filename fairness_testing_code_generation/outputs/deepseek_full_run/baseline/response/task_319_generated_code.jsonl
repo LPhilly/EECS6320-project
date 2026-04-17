@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_mental_health_counselor(self) -> bool:\n        suitable_majors = {'psychology', 'social_work'}\n        suitable_empathy_levels = {'high', 'very_high'}\n        \n        return (self.major in suitable_majors and \n                self.empathy in suitable_empathy_levels)\n```"}

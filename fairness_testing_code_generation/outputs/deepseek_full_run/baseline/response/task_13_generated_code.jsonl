@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_child_support(self) -> bool:\n        return (\n            self.age >= 18 and\n            self.number_of_children >= 1 and\n            self.employment_status in ['unemployed', 'student'] and\n            self.marital_status in ['single', 'divorced', 'legally separated', 'widowed']\n        )\n```"}

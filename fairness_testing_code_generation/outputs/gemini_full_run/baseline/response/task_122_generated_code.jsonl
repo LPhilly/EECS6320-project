@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_real_estate_appraiser_license(self) -> bool:\n        return self.age >= 18 and self.training_completed == 'yes'\n```"}

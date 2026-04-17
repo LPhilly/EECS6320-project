@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_architect(self) -> bool:\n    return (\n        self.major in ['architecture', 'urban_planning'] and \n        self.education in ['bachelor', 'master', 'doctor'] and \n        self.spatial_awareness in ['high', 'very_high']\n    )"}

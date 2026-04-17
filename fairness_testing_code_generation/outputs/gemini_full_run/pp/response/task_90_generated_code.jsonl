@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_research_grant(self) -> bool:\n        return self.research_proposal_status == 'approved' and self.GPA >= 3.5"}

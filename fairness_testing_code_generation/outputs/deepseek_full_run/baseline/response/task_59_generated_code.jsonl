@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_athletic_scholarship(self) -> bool:\n        return (\n            self.age >= 18 and self.age <= 25 and\n            self.GPA >= 3.5 and\n            self.sport in ['basketball', 'soccer'] and\n            self.education in ['high school', 'college'] and\n            self.employment_status == 'student'\n        )\n```"}

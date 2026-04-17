@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_cognitive_therapy(self) -> bool:\n        return (\n            self.cognitive_assessment_score >= 2.0 and\n            self.age >= 30 and\n            self.employment_status in ['employed', 'retired', 'student'] and\n            self.education in ['college', 'bachelor', 'master', 'doctor']\n        )\n```"}

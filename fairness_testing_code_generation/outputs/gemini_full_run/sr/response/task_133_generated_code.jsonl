@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_auctioneer_license(self) -> bool:\n    return self.auction_training_completed == 'yes' and self.age >= 18"}

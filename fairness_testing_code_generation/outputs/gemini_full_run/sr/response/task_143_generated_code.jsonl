@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_motorcycle_license(self) -> bool:\n    \"\"\"This function takes a MotorcycleLicenseApplicant object and returns a boolean value.\n    The eligibility is determined based on age and the completion of a mandatory riding course.\n    \"\"\"\n    return self.age >= 16 and self.riding_course_completed == 'yes'"}

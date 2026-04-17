@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 60:\n            return True\n        if self.vaccination_history == 'outdated':\n            return True\n        if self.employment_status in ['retired', 'unemployed']:\n            return True\n        return False"}

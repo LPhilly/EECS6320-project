@@ -1,0 +1,1 @@
+{"generated_code": "    # Check if the person has high or very high scientific research skills\n    if self.scientific_research_skills in ['high', 'very_high']:\n        # Additionally, ensure the person has a relevant major\n        if self.major in ['biology', 'chemistry']:\n            return True\n    return False"}

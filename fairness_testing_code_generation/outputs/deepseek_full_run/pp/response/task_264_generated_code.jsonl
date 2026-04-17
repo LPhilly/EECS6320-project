@@ -1,0 +1,1 @@
+{"generated_code": "        # Suitable if the person has good or excellent hand-eye coordination\n        return self.hand_eye_coordination in ['good', 'excellent']"}

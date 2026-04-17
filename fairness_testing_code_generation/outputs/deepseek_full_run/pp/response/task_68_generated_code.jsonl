@@ -1,0 +1,1 @@
+{"generated_code": "        if self.GPA >= 3.9 and self.honors_courses == 'yes':\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_thyroid_treatment(self) -> bool:\n        return self.thyroid_function_test_result in ['hypothyroidism', 'hyperthyroidism']"}

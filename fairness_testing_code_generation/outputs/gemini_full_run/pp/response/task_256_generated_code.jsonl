@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_influenza_vaccine(self) -> bool:\n        return self.age >= 0.5 and self.vaccination_compliance == 'not_up_to_date'"}

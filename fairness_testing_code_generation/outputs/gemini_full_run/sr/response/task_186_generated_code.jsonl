@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_coaching_certification(self) -> bool:\n    return self.employment_status == 'employed' and self.job_level >= 5 and self.coaching_completed == 'yes'"}

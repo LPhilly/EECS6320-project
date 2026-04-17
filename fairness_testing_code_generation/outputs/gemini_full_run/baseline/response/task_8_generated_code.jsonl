@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_veteran_benefits(self) -> bool:\n        return self.years_of_service >= 20 or self.service_disability_rating > 0\n```"}

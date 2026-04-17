@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_special_project_assignment(self) -> bool:\n        return (self.special_project_experience == 'no' and\n                self.job_level >= 4 and\n                self.age >= 30 and\n                self.age <= 60 and\n                self.employment_status == 'employed')\n```"}

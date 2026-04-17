@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_temporary_assistance(self) -> bool:\n        age_eligible = self.age >= 45 and self.age <= 60\n        employment_eligible = self.employment_status in ['unemployed', 'retired']\n        dependents_eligible = self.dependents_count >= 1\n        return age_eligible and employment_eligible and dependents_eligible\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pet_keeping(self) -> bool:\n    return self.love_for_animals in ['high', 'very_high']"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18 or self.age > 70:\n            return False\n        if self.physical_fitness_level not in ['moderate', 'high']:\n            return False\n        return True"}

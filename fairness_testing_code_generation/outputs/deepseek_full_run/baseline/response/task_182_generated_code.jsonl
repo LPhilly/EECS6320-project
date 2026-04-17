@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 45 and self.years_of_service >= 8 and self.leadership_feedback_score >= 4.5:\n            return True\n        return False"}

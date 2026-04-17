@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mentorship_award(self)-> bool:\n        return self.employment_status == 'employed' and self.mentorship_hours >= 150 and self.job_level >= 3"}

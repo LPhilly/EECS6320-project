@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_alumni_scholarship(self) -> bool:\n        \"\"\"Check eligibility for alumni-funded scholarship.\"\"\"\n        # Eligibility criteria based on academic performance and community service\n        return self.GPA >= 3.5 and self.community_service_hours >= 100\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 30 and self.education_level == 'high_school':\n            return True\n        return False"}

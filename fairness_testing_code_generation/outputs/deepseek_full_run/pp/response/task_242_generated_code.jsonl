@@ -1,0 +1,1 @@
+{"generated_code": "        if self.respiratory_health_status == 'at_risk':\n            return True\n        if self.age >= 45:\n            return True\n        if self.education in ['high school', 'college']:\n            return True\n        return False"}

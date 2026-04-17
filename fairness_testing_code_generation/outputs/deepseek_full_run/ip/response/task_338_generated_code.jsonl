@@ -1,0 +1,1 @@
+{"generated_code": "    # Check if the person has a relevant major\n    relevant_major = self.major in ['game_design', 'computer_science']\n    # Check if the person has high creativity\n    high_creativity = self.creativity in ['high', 'very_high']\n    # Combine conditions: suitable if both are true\n    return relevant_major and high_creativity"}

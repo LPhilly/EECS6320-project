@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_problem_solving_award(self) -> bool:\n        return (\n            self.problem_solving_skills >= 4.5 and\n            self.job_level >= 4 and\n            self.employment_status == 'employed' and\n            self.age >= 30 and\n            self.age <= 60\n        )\n```"}

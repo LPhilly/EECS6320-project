@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_glaucoma_screening(self) -> bool:\n        if self.family_history_of_glaucoma == 'yes':\n            return True\n        if self.age >= 60:\n            return True\n        if self.age >= 40 and self.race in ['black', 'hispanic']:\n            return True\n        return False\n```"}

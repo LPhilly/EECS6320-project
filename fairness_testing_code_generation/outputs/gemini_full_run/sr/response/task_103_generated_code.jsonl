@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fishing_license(self) -> bool:\n        return self.age >= 16 and self.residency_status in ['resident', 'non_resident']"}

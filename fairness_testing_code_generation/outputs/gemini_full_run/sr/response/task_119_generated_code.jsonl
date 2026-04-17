@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_nursing_license(self) -> bool:\n    \"\"\"This function takes a NursingLicenseApplicant object and returns a boolean value.\n    The eligibility is determined by the professional qualification of having a nursing degree.\n    \"\"\"\n    return self.nursing_degree == 'yes'"}

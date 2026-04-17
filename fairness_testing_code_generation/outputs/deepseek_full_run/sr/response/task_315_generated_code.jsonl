@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef suitable_for_translator(self) -> bool:\n    return (self.major in ['languages', 'linguistics'] and \n            self.language_proficiency == 'very_high')\n```"}

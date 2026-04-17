@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_vision_correction(self) -> bool:\n    return self.vision_impairment_level in ['mild', 'severe'] and self.age >= 18"}

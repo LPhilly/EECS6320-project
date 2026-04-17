@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_childcare_assistance(self) -> bool:\n    if self.employment_status in ['employed', 'student'] and self.household_income <= 40000 and self.number_of_children >= 1:\n        return True\n    return False"}

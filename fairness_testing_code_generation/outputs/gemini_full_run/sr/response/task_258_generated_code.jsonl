@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_skin_cancer_screening(self) -> bool:\n    if self.age >= 50 or self.sun_exposure_level == 'high':\n        return True\n    return False"}

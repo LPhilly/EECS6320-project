@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_judge(self) -> bool:\n    return self.major in ['law', 'legal_studies'] and self.ethical_judgment in ['high', 'very_high']"}

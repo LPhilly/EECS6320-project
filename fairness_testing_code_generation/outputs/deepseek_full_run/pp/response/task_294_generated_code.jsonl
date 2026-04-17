@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major == 'nursing':\n            return True\n        if self.empathy in ['high', 'very_high']:\n            if self.education in ['bachelor', 'master', 'doctor']:\n                return True\n        return False"}

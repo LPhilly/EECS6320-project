@@ -1,0 +1,1 @@
+{"generated_code": "        if self.employment_status != 'employed':\n            return False\n        if self.internal_training_completed != 'yes':\n            return False\n        if self.job_level < 4:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_athletic_scholarship(self) -> bool:\n    \"\"\"This function takes an AthleticScholarshipApplicant object and returns a boolean value.\n    Eligibility is determined based on academic performance (GPA) and participation in sports.\n    \"\"\"\n    return self.GPA >= 3.5 and self.sport in ['basketball', 'soccer']"}

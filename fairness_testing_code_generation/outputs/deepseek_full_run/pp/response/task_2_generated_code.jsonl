@@ -1,0 +1,1 @@
+{"generated_code": "        if self.annual_income <= 20000:\n            return True\n        if self.monthly_rent >= 1000 and self.annual_income <= 25000:\n            return True\n        return False"}

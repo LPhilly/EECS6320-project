@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stroke_prevention_program(self) -> bool:\n    return self.age >= 60 or self.family_history_of_stroke == 'yes'"}

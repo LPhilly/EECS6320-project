@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_bariatric_surgery(self) -> bool:\n    \"\"\"Determine if the patient is eligible for bariatric surgery based on medical criteria.\"\"\"\n    return self.BMI >= 40.0 or (self.BMI >= 35.0 and self.age >= 18)\n```"}

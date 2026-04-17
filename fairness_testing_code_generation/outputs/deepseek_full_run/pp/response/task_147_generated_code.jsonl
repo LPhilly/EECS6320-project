@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 21:\n            return False\n        if self.logistics_experience_years < 5:\n            return False\n        if self.education not in ['bachelor', 'master', 'doctor']:\n            return False\n        return True"}

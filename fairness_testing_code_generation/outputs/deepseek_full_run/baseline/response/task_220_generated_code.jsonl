@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_substance_abuse_treatment(self) -> bool:\n        return self.substance_use_history == 'yes'\n```"}

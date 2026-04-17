@@ -1,0 +1,1 @@
+{"generated_code": "    # Eligibility based on age, employment status, and years of service\n    return self.age >= 60 and self.employment_status == 'retired' and self.years_of_service >= 20"}

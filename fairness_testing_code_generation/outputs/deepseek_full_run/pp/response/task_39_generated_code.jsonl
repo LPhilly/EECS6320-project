@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18 or self.age > 65:\n            return False\n        if self.years_of_treatment < 2:\n            return False\n        if self.employment_status == \"unemployed\":\n            return False\n        if self.education in [\"high school\", \"college\"]:\n            return False\n        return True"}

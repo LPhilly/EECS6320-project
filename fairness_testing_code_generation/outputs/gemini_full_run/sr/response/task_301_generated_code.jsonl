@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_police_officer(self)-> bool:\n        return (self.major in ['criminal_justice', 'law_enforcement'] and \n                self.physical_fitness in ['high', 'very_high'] and \n                self.education in ['college', 'bachelor', 'master', 'doctor'])"}

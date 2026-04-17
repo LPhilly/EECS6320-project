@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_internal_promotion(self)-> bool:\n        return self.internal_training_completed == 'yes' and self.job_level == 2 and self.employment_status == 'employed'\n```"}

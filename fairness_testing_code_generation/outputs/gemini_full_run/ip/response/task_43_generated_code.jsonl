@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_disaster_recovery_grant(self) -> bool:\n    \"\"\"This function determines eligibility for a disaster recovery grant based on objective financial need\n    and the extent of property damage, excluding sensitive demographic factors.\n    \"\"\"\n    return self.damage_assessment >= 10000 and self.annual_income <= 25000"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_healthcare_aid(self) -> bool:\n        return self.monthly_income <= 2000 or self.employment_status in ['unemployed', 'student']"}

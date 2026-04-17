@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_energy_assistance(self) -> bool:\n        income_limit = 30000\n        age_limit = 60\n        household_income_limit = self.household_size * 15000\n        \n        return (self.annual_income <= income_limit and \n                self.age >= age_limit and \n                self.annual_income <= household_income_limit)\n```"}

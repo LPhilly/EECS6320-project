@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diving_instructor_license(self) -> bool:\n    \"\"\"This function takes a DivingInstructorLicenseApplicant object and returns a boolean value.\n    The eligibility for a diving instructor license is determined by whether the applicant\n    has a valid diving certification.\n    \"\"\"\n    return self.diving_certification == 'yes'"}

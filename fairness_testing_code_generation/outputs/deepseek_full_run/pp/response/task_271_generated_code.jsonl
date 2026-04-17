@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_pilates(self) -> bool:\n        # Pilates is suitable for individuals with moderate to high flexibility\n        # and is generally safe for adults of various ages and backgrounds.\n        # The primary consideration here is physical readiness indicated by flexibility.\n        return self.flexibility in ['moderate', 'high']"}

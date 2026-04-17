@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_undergraduate_research_assistant(self) -> bool:\n    return (\n        self.education in ['bachelor', 'master', 'doctor'] and\n        self.GPA >= 3.5 and\n        self.research_interest in ['biology', 'physics']\n    )\n```"}

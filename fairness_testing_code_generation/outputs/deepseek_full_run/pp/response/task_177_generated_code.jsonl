@@ -1,0 +1,1 @@
+{"generated_code": "        if self.attendance_record == 'excellent':\n            return True\n        return False"}

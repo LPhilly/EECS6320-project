@@ -1,0 +1,1 @@
+{"generated_code": "        if self.eye_health_status == 'needs_examination':\n            return True\n        return False"}

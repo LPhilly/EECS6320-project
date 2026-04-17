@@ -1,0 +1,1 @@
+{"generated_code": "        if self.education != 'master':\n            return False\n        if self.GPA < 3.8:\n            return False\n        if self.published_papers != 'yes':\n            return False\n        if self.employment_status not in ['student', 'unemployed']:\n            return False\n        if self.age > 45:\n            return False\n        return True"}

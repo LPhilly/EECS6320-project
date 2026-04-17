@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stroke_rehabilitation(self) -> bool:\n    return self.stroke_risk_factors == 'high'"}

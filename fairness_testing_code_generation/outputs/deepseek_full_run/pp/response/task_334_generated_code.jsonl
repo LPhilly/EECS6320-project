@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_interior_designer(self) -> bool:\n        return (\n            self.major == \"interior_design\" \n            and self.artistic_talent in [\"high\", \"very_high\"]\n        )"}

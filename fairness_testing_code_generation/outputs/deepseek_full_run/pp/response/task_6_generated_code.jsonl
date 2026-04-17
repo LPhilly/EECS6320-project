@@ -1,0 +1,1 @@
+{"generated_code": "        if self.disability_percentage >= 50:\n            return True\n        if self.disability_percentage >= 40 and self.annual_income <= 15000:\n            return True\n        return False"}

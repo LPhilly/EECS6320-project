@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_mental_health_counselor(self) -> bool:\n    return (self.education in ['master', 'doctor'] and \n            self.major in ['psychology', 'social_work'] and \n            self.empathy in ['high', 'very_high'])"}

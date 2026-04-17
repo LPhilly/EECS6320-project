@@ -1,0 +1,1 @@
+{"generated_code": "    # Employees are eligible if they have participated in the wellness program\n    # and have at least 5 years of service.\n    return self.wellness_program_participation == 'yes' and self.years_of_service >= 5"}

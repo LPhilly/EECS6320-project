@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_human_resources_manager(self) -> bool:\n        return (self.major == 'human_resources' and \n                self.communication_skills in ['high', 'very_high'] and\n                self.education in ['bachelor', 'master', 'doctor'] and\n                self.employment_status == 'employed')\n```"}

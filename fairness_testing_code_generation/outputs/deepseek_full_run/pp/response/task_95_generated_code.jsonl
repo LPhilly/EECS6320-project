@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligible if GPA >= 3.5 and has leadership experience\n        return self.GPA >= 3.5 and self.leadership_experience == 'yes'"}

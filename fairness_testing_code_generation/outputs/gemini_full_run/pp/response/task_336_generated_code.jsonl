@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_veterinarian(self) -> bool:\n    return self.major == 'veterinary_medicine' and self.education == 'doctor' and self.empathy in ['high', 'very_high']"}

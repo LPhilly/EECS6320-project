@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_emergency_shelter(self)-> bool:\n        if self.annual_income <= 15000 or self.employment_status == 'unemployed':\n            return True\n        return False\n```"}

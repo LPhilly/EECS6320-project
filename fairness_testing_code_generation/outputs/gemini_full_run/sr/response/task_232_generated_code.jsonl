@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_kidney_health_program(self) -> bool:\n        return self.blood_pressure_level >= 140.0 or self.age >= 60"}

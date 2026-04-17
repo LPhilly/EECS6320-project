@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_community_service_award(self) -> bool:\n    return self.community_service_hours >= 100 and self.years_of_service >= 2"}

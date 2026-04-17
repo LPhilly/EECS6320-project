@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_liquor_license(self) -> bool:\n        age_eligible = 30 <= self.age <= 60\n        employment_eligible = self.employment_status in ['employed', 'retired']\n        location_eligible = self.business_location == 'urban'\n        return age_eligible and employment_eligible and location_eligible\n```"}

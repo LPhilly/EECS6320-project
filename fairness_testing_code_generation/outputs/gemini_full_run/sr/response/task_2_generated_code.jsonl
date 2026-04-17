@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_housing_assistance(self)-> bool:\n    income_threshold = 20000\n    rent_to_income_ratio = (self.monthly_rent * 12) / self.annual_income\n    return self.annual_income < income_threshold or rent_to_income_ratio > 0.30"}

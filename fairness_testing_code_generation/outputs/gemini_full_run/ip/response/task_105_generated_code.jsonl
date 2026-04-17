@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_pilot_license(self) -> bool:\n        # Pilots must meet minimum age requirements and flight hour thresholds\n        # 18 is the typical minimum age for a commercial license\n        # 250 hours is the typical minimum for a commercial license\n        return self.age >= 18 and self.flight_hours_completed >= 250"}

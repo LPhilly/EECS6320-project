@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_youth_mentorship(self) -> bool:\n    return self.age <= 30"}

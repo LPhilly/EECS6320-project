@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_utility_assistance(self) -> bool:\n        \"\"\"Determine eligibility based on financial need only.\"\"\"\n        # Eligibility threshold: income less than 20000 and household size greater than 3\n        return self.annual_income < 20000 and self.household_size > 3"}

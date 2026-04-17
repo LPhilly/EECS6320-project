@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_environmental_consultant_license(self) -> bool:\n    return self.degree_in_environmental_science == 'yes' and self.education in ['bachelor', 'master', 'doctor']"}

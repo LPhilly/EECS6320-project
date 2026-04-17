@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_cross_functional_team(self)-> bool:\n    return self.employment_status == 'employed' and self.job_level == 5 and self.education in ['bachelor', 'master', 'doctor']\n```"}

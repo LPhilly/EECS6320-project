@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef suitable_for_painting(self) -> bool:\n    return self.creativity_level == 'high'\n```"}

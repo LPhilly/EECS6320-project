@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_international_admission(self) -> bool:\n        return (\n            self.TOEFL_score >= 100 and\n            self.undergraduate_GPA >= 3.5\n        )\n```"}

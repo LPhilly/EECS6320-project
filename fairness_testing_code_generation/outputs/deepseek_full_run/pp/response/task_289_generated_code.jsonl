@@ -1,0 +1,1 @@
+{"generated_code": "        if self.fitness_level == 'high' and self.love_for_music in ['high', 'very_high']:\n            return True\n        return False"}

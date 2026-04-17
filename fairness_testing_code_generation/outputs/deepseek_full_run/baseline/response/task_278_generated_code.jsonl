@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_drawing(self) -> bool:\n        return (\n            self.age >= 30 and \n            self.age <= 60 and \n            self.artistic_ability == 'high'\n        )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.hearing_test_result == 'requires_aid':\n            if self.age >= 60:\n                return True\n            if self.employment_status in ['unemployed', 'retired']:\n                return True\n            if self.education in ['high school', 'college']:\n                return True\n        return False"}

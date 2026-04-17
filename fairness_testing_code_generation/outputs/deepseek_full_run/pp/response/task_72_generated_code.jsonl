@@ -1,0 +1,1 @@
+{"generated_code": "        if self.family_income <= 30000:\n            if self.GPA >= 3.0:\n                return True\n        return False"}

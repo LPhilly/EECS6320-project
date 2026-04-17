@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_206\inconsistency_details_variant_1.csv,employment_status,56250,15625,27.78%,"employed: 15625, retired: 15625, unemployed: 15625"

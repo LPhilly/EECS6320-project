@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_cooking(self) -> bool:\n        return self.love_for_cooking in ['high', 'very_high']"}

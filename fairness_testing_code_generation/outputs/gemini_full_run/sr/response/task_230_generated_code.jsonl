@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_anxiety_management_program(self) -> bool:\n        return self.mental_health_screening_score >= 7.0"}

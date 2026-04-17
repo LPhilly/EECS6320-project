@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_mammogram(self) -> bool:\n    if self.gender == 'female' and self.age >= 40:\n        return True\n    return False"}

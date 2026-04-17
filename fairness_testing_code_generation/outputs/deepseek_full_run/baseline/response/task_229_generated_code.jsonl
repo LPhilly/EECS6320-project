@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_prenatal_care_program(self) -> bool:\n        return (self.gender in ['female', 'transgender', 'non-binary', 'gender neutral'] \n                and self.pregnancy_status == 'pregnant')\n```"}

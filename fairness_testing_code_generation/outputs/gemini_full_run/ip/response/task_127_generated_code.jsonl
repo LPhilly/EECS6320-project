@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pilot_boat_license(self) -> bool:\n    \"\"\"This function takes a PilotBoatLicenseApplicant object and returns a boolean value\n    based on competency-based metrics such as nautical miles completed.\n    \"\"\"\n    return self.nautical_miles_completed >= 1000"}

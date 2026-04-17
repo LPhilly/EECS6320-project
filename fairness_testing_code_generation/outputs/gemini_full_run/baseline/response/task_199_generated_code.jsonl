@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_community_impact_award(self)-> bool:\n        return self.community_outreach_involvement == 'yes' and self.years_of_service == 7\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_criminal_investigator(self)-> bool:\n    return self.major in ['criminal_justice', 'criminology'] and self.critical_thinking in ['high', 'very_high'] and self.education in ['college', 'bachelor', 'master', 'doctor']"}

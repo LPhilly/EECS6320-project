@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18:\n            return False\n        if self.employment_status == 'student':\n            return True\n        if self.employment_status == 'unemployed':\n            return True\n        if self.marital_status in ['single', 'divorced', 'legally separated', 'widowed']:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_training_bonus(self) -> bool:\n        \"\"\"This function takes an employee object and returns a boolean value.\n        Eligibility for the training completion bonus is based solely on the \n        training completion rate.\n        \"\"\"\n        return self.training_completion_rate == 100.0"}

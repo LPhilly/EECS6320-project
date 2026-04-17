@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_innovation_lab_access(self) -> bool:\n    return self.employment_status == 'employed' and self.innovation_projects_participation == 'yes'"}

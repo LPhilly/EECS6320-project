@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_fishing(self) -> bool:\n    return self.patience_level == 'high'"}

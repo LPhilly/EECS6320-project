@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria based on cholesterol level and age\n        if self.cholesterol_level > 240.0 and self.age >= 45:\n            return True\n        # Additional criteria for high-risk groups\n        if self.cholesterol_level > 280.0:\n            return True\n        return False"}

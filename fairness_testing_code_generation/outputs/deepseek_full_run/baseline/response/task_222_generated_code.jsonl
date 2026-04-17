@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_pain_management_program(self) -> bool:\n        return (\n            self.chronic_pain_level >= 7.0 and\n            self.age >= 30 and\n            self.employment_status in ['employed', 'retired', 'unemployed'] and\n            self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']\n        )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major not in ['kinesiology', 'physical_education']:\n            return False\n        if self.physical_stamina not in ['high', 'very_high']:\n            return False\n        if self.employment_status == 'retired':\n            return False\n        if self.age < 18:\n            return False\n        return True"}

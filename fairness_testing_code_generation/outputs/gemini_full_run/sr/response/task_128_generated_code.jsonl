@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pet_trainer_license(self) -> bool:\n    return self.training_certification == 'yes'"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_utility_assistance(self)-> bool:\n        if self.annual_income <= 12000:\n            return True\n        if self.annual_income <= 25000 and self.household_size >= 5:\n            return True\n        return False\n```"}

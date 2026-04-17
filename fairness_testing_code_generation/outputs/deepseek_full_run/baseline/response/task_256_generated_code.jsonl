@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_influenza_vaccine(self) -> bool:\n        # Eligibility based on age and vaccination status\n        return self.age >= 6 and self.vaccination_compliance == 'not_up_to_date'\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 60:\n            return True\n        if self.monthly_income <= 1500:\n            return True\n        if self.employment_status == 'unemployed':\n            return True\n        if self.education == 'high school' and self.monthly_income <= 2000:\n            return True\n        return False"}

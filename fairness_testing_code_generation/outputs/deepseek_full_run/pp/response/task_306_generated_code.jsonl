@@ -1,0 +1,1 @@
+{"generated_code": "        # Check if the person meets the criteria for being suitable as a teacher\n        # Criteria: good or excellent communication skills, and a major in education or english\n        return (self.communication_skills in ['good', 'excellent'] and \n                self.major in ['education', 'english'])"}

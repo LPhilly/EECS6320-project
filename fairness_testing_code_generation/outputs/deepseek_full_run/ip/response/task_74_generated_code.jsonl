@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_graduation(self) -> bool:\n        \"\"\"This function takes a GraduationCandidate object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to select the student\nwho is eligible to graduate.\n        \"\"\"\n        return self.GPA >= 2.0 and self.credits_completed >= 120\n```"}

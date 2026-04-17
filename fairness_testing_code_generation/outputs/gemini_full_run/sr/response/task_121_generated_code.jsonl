@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_plumbing_license(self) -> bool:\n    \"\"\"This function takes a PlumbingLicenseApplicant object and returns a boolean value.\n    Determines eligibility based on the completion of the required professional apprenticeship.\n    \"\"\"\n    return self.apprenticeship_completed == 'yes'"}

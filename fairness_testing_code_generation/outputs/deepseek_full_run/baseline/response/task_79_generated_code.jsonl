@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_honor_roll(self) -> bool:\n        return (\n            self.GPA >= 3.5\n            and self.enrollment_status == 'full_time'\n            and self.education in ['bachelor', 'master', 'doctor']\n        )\n```"}

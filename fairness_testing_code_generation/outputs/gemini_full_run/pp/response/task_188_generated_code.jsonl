@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_problem_solving_award(self)-> bool:\n        return self.problem_solving_skills >= 5.0\n```"}

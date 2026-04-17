@@ -1,0 +1,1 @@
+{"generated_code": "        if self.endurance == 'moderate' and self.love_for_nature in ['high', 'very_high']:\n            return True\n        return False"}

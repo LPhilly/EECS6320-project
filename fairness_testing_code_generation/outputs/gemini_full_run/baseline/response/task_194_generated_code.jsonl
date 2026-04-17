@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_customer_champion_award(self) -> bool:\n    return self.customer_feedback_score == 5.0 and self.employment_status == 'employed'"}

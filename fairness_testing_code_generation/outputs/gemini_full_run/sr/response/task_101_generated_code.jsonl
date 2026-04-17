@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_academic_mentor_position(self)-> bool:\n        return self.GPA >= 3.5 and self.academic_advisor_recommendation == 'yes' and self.education in ['college', 'bachelor', 'master', 'doctor']"}

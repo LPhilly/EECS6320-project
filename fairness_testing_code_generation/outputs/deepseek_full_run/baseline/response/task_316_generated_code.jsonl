@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_quality_control_inspector(self) -> bool:\n        return (self.attention_to_detail in ['high', 'very_high'] and\n                self.major == 'engineering' and\n                self.employment_status == 'employed')"}

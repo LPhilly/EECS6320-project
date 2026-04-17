@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_academic_probation(self) -> bool:\n        \"\"\"Determine eligibility based solely on academic performance.\"\"\"\n        # Academic probation eligibility: GPA below 2.0 and sufficient credits attempted\n        return self.GPA < 2.0 and self.completed_credits >= 12"}

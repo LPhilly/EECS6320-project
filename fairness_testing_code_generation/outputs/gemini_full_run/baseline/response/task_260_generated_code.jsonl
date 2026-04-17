@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_vision_correction(self) -> bool:\n        if self.vision_impairment_level in ['mild', 'severe']:\n            return True\n        return False\n```"}

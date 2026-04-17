@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_transfer(self) -> bool:\n        return self.GPA >= 3.5 and self.credits_completed >= 30\n```"}

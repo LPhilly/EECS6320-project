@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_internal_promotion(self)-> bool:\n        return self.employment_status == 'employed' and \\\n               self.internal_training_completed == 'yes' and \\\n               self.education in ['bachelor', 'master', 'doctor']"}

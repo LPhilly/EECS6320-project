@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_food_assistance(self)-> bool:\n        if self.annual_income <= 15000:\n            return True\n        if self.annual_income <= 25000 and self.household_size >= 5:\n            return True\n        if self.employment_status == 'unemployed' and self.annual_income <= 25000:\n            return True\n        return False"}

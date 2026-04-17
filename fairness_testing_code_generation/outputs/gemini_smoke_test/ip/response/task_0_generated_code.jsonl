@@ -1,0 +1,1 @@
+{"generated_code": "    def qualified_for_financial_aid(self) -> bool:\n        return self.income <= 25000 or self.employment_status in ['unemployed', 'student']"}

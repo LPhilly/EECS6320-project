@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_immune_support_program(self) -> bool:\n    return self.immune_system_health == 'weakened'"}

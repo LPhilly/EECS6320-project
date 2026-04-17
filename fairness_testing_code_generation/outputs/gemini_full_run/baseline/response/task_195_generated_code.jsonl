@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_diversity_inclusion_initiative(self)-> bool:\n        return self.gender != 'male' or self.race != 'white' or self.diversity_and_inclusion_involvement == 'yes'\n```"}

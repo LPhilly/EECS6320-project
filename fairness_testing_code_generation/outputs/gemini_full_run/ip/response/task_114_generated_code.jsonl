@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_liquor_license(self) -> bool:\n        # Legal eligibility for a liquor license typically requires the applicant to be at least 21 years of age.\n        return self.age >= 21"}

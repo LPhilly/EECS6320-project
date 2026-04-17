@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_fire_safety_inspector_license(self) -> bool:\n    return self.fire_safety_certification == 'yes' and self.education in ['college', 'bachelor', 'master', 'doctor']"}

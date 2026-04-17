@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_private_investigator_license(self)-> bool:\n        if self.background_check_passed == 'yes' and self.age >= 25:\n            return True\n        return False\n```"}

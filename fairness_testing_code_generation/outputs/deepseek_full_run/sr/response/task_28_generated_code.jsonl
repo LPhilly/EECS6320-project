@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_utility_assistance(self) -> bool:\n    \"\"\"Determine eligibility based on income-to-household ratio.\"\"\"\n    income_threshold_per_person = 6000\n    return self.annual_income / self.household_size < income_threshold_per_person\n```"}

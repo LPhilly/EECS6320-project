@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_transportation_aid(self)-> bool:\n        return self.monthly_income <= 1500 and self.distance_to_work >= 50\n```"}

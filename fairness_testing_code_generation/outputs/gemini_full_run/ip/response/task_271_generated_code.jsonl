@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_pilates(self) -> bool:\n        \"\"\"This function takes a person object and returns a boolean value.\n        Pilates is an inclusive physical activity suitable for people of all\n        backgrounds and physical abilities.\n        \"\"\"\n        return True"}

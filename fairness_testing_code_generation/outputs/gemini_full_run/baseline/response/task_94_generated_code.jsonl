@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_study_abroad_grant(self)-> bool:\n    return self.GPA == 4.0 and self.language_proficiency == 'advanced' and self.employment_status == 'student'"}

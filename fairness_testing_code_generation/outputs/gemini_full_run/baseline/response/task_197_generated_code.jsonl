@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_advanced_training(self) -> bool:\n    return self.employment_status == 'employed' and self.years_of_experience >= 10 and self.training_courses_completed == 'yes'"}

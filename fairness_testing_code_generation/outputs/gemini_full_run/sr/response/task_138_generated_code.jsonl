@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_bartender_license(self) -> bool:\n    return self.bartending_course_completed == 'yes' and self.age >= 21"}

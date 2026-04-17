@@ -1,0 +1,1 @@
+{"generated_code": "    # Check eligibility based on job-relevant criteria\n    return self.job_level >= 6 and self.strategic_initiatives_completed == 'yes'"}

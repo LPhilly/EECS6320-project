@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_surveyor_license(self) -> bool:\n    \"\"\"This function takes a SurveyorLicenseApplicant object and returns a boolean value.\n    Write the condition by defining the necessary attribute/attributes to determine if the applicant\n    is eligible for a surveyor license.\n    \"\"\"\n    return self.surveying_degree == 'yes'\n```"}

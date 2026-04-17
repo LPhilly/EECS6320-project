@@ -1,0 +1,1 @@
+{"generated_code": "        if self.leadership_experience == 'no':\n            if self.employment_status == 'employed':\n                if self.job_level >= 4:\n                    if self.age >= 30 and self.age <= 60:\n                        return True\n        return False"}

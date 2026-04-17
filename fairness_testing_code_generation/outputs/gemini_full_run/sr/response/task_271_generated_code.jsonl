@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_pilates(self) -> bool:\n    return self.flexibility in ['moderate', 'high']"}

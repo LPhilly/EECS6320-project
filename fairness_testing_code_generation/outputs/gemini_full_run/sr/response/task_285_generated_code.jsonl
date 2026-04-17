@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_darts(self) -> bool:\n    return self.hand_eye_coordination == 'excellent' and self.focus_concentration == 'very_high'"}

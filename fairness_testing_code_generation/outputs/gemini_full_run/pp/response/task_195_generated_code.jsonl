@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diversity_inclusion_initiative(self)-> bool:\n    return self.employment_status == 'employed' and self.diversity_and_inclusion_involvement == 'yes'"}

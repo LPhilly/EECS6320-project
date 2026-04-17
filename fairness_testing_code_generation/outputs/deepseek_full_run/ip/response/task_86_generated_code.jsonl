@@ -1,0 +1,1 @@
+{"generated_code": "    # Eligibility should be based on job-relevant criteria only\n    return (\n        self.education in [\"bachelor\", \"master\", \"doctor\"] and\n        self.GPA >= 3.5 and\n        self.research_interest == \"biology\"\n    )"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_graduate_assistantship(self) -> bool:\n    \"\"\"\n    Determines eligibility for a graduate assistantship based on academic merit \n    and relevant experience, excluding sensitive demographic attributes.\n    \"\"\"\n    return self.GPA >= 3.8 and self.research_experience == 'yes'"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_diabetes_management_program(self) -> bool:\n    \"\"\"Determine eligibility based on medical criteria only.\"\"\"\n    return self.blood_sugar_level > 140.0\n```"}

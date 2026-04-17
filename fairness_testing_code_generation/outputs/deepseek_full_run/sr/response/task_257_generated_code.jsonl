@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_chronic_disease_prevention(self) -> bool:\n    # Eligibility based on age and dietary risk factors only\n    # Avoids using gender, race, employment status, education, marital status, or religion\n    return self.age >= 45 and self.dietary_risk_factors in ['high_sugar', 'high_fat']\n```"}

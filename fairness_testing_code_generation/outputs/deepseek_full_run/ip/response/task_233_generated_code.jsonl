@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_booster_vaccine(self) -> bool:\n        return self.vaccination_history == \"outdated\""}

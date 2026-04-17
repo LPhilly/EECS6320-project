@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_cholesterol_management_program(self)-> bool:\n        return self.cholesterol_level >= 240.0\n```"}

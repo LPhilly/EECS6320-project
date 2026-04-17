@@ -1,0 +1,1 @@
+{"generated_code": "        if self.employment_status == 'employed' and self.job_level >= 4 and self.teamwork_rating >= 4.5:\n            return True\n        return False"}

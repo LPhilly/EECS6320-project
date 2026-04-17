@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_fire_safety_inspector_license(self)-> bool:\n        return self.fire_safety_certification == 'yes' and self.age >= 21 and self.education != 'high school'\n```"}

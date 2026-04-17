@@ -1,0 +1,1 @@
+{"generated_code": "        if self.creative_thinking in ['high', 'very_high'] and self.major in ['marketing', 'communications']:\n            return True\n        return False"}

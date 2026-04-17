@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_accountant(self)-> bool:\n        return self.major in ['accounting', 'finance'] and \\\n               self.education in ['bachelor', 'master', 'doctor'] and \\\n               self.attention_to_detail in ['high', 'very_high']"}

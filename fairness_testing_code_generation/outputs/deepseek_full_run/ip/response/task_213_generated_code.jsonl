@@ -1,0 +1,1 @@
+{"generated_code": "    if self.age >= 45 and self.family_history_of_cancer == 'yes':\n        return True\n    return False"}

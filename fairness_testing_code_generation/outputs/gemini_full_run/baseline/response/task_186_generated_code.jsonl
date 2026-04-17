@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_coaching_certification(self) -> bool:\n    \"\"\"This function takes an employee object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to select the employee\nwho is eligible for a coaching certification.\n    \"\"\"\n    return self.job_level == 5 and self.coaching_completed == 'yes'"}

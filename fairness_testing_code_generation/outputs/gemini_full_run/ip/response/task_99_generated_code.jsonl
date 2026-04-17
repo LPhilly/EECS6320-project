@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_undergraduate_scholarship(self) -> bool:\n    \"\"\"This function determines scholarship eligibility based on academic merit\n    (GPA and honors courses) to ensure a fair and non-discriminatory selection process.\n    \"\"\"\n    return self.GPA >= 3.8 and self.honors_courses == 'yes'"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major == 'social_work' or self.major == 'psychology':\n            if self.empathy == 'high' or self.empathy == 'very_high':\n                return True\n        return False"}

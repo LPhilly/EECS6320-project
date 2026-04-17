@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_diabetes_management_program(self) -> bool:\n        return (\n            self.blood_sugar_level > 140.0 and\n            self.age >= 30 and\n            self.employment_status in ['employed', 'retired', 'unemployed'] and\n            self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']\n        )\n```"}

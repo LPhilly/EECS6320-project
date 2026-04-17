@@ -1,0 +1,1 @@
+{"generated_code": "        if self.vision_impairment_level == 'severe':\n            if self.age >= 18 and self.age <= 65:\n                if self.employment_status in ['employed', 'student']:\n                    return True\n        return False"}

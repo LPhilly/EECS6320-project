@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_innovation_grant(self) -> bool:\n        return self.innovation_contributions == 'yes' and self.employment_status == 'employed'\n```"}

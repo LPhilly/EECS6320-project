@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_architect(self) -> bool:\n        required_major = 'architecture'\n        required_spatial = 'very_high'\n        \n        return (self.major == required_major and \n                self.spatial_awareness == required_spatial)"}

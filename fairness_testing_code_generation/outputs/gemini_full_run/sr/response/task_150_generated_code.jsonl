@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_event_planner_license(self) -> bool:\n    return self.event_management_experience == 'yes' and self.education in ['college', 'bachelor', 'master', 'doctor']"}

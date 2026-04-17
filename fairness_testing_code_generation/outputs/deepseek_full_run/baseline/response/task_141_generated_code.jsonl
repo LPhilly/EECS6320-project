@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18:\n            return False\n        if self.diving_certification != 'yes':\n            return False\n        if self.education not in ['bachelor', 'master', 'doctor']:\n            return False\n        return True"}

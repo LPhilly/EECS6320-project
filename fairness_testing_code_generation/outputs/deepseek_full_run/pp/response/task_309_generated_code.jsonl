@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major == \"mechanical_engineering\" and self.problem_solving_skills in [\"high\", \"very_high\"]:\n            return True\n        return False"}

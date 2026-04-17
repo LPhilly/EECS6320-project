@@ -1,0 +1,1 @@
+{"generated_code": "        if self.project_completion_rate >= 95.0 and self.years_of_experience >= 5:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18 or self.age > 70:\n            return False\n        if self.employment_status == 'unemployed':\n            return False\n        if self.marital_status == 'widowed' and self.age > 60:\n            return False\n        if self.interest_in_culture == 'moderate':\n            return False\n        return True"}

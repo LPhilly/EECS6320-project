@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_hearing_rehabilitation(self) -> bool:\n    return self.hearing_loss in ['mild', 'severe']\n```"}

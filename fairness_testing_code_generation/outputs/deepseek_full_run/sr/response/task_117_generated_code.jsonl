@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_pharmacist_license(self) -> bool:\n    return (\n        self.pharmacy_degree == 'yes' and\n        self.education in ['bachelor', 'master', 'doctor'] and\n        self.age >= 21\n    )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_training_completion_bonus(self) -> bool:\n        return (\n            self.employment_status == 'employed' and\n            self.training_hours_completed >= 80 and\n            self.job_level >= 4\n        )\n```"}

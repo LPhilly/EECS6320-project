@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_low_income_tax_relief(self) -> bool:\n        \"\"\"Determine eligibility based solely on income and household size.\"\"\"\n        income_threshold = 20000 * self.household_size\n        return self.annual_income < income_threshold"}

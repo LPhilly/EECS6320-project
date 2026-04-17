@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_snap(self) -> bool:\n    income_limits = {2: 25636, 5: 45682}\n    return self.household_income <= income_limits.get(self.household_size, 0)"}

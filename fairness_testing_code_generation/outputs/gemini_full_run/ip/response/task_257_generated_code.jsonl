@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_chronic_disease_prevention(self) -> bool:\n        return self.age >= 45 or self.dietary_risk_factors in ['high_sugar', 'high_fat']"}

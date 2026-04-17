@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_public_health_support(self)-> bool:\n        if self.annual_income <= 15000:\n            return True\n        elif self.annual_income <= 30000 and self.household_size >= 6:\n            return True\n        else:\n            return False\n```"}

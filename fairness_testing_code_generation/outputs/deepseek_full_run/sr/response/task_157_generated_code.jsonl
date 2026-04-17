@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_certification_bonus(self) -> bool:\n    return (\n        self.certifications_completed == 'yes' and\n        self.employment_status == 'employed' and\n        self.job_level >= 2\n    )\n```"}

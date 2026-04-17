@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_physical_therapy(self) -> bool:\n        return self.mobility_status == 'limited'"}

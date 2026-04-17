@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_civil_engineer(self)-> bool:\n    return self.major == 'civil_engineering' and self.education in ['bachelor', 'master', 'doctor'] and self.technical_aptitude in ['good', 'excellent']"}

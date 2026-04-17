@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_osteoporosis_treatment(self) -> bool:\n        if self.bone_health == 'poor':\n            return True\n        elif self.age >= 60 and self.bone_health == 'fair':\n            return True\n        return False"}

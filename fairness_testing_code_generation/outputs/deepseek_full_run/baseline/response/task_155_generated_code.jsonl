@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_tuition_reimbursement(self) -> bool:\n        return (\n            self.employment_status == 'employed' and\n            self.years_of_experience >= 5 and\n            self.education in ['high school', 'college', 'bachelor'] and\n            self.age < 60\n        )\n```"}

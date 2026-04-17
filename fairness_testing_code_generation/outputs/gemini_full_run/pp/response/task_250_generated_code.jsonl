@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_lung_cancer_screening(self)-> bool:\n    return self.age >= 50 and self.smoking_history in ['current_smoker', 'former_smoker']"}

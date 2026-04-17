@@ -1,0 +1,54 @@
+[
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\pp",
+        "average_pass_at_attribute": null,
+        "overall_code_bias_score": null,
+        "biased_objects": null,
+        "total_executable_objects": 0,
+        "attempted_objects": 1,
+        "executable_rate": 0.0,
+        "has_executable_objects": false,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\pp\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\pp\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "pp"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\baseline",
+        "average_pass_at_attribute": 0.75,
+        "overall_code_bias_score": 1.0,
+        "biased_objects": 1,
+        "total_executable_objects": 1,
+        "attempted_objects": 1,
+        "executable_rate": 1.0,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\baseline\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\baseline\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "baseline"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\sr",
+        "average_pass_at_attribute": 0.75,
+        "overall_code_bias_score": 0.0,
+        "biased_objects": 0,
+        "total_executable_objects": 1,
+        "attempted_objects": 1,
+        "executable_rate": 1.0,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\sr\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\sr\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "sr"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\ip",
+        "average_pass_at_attribute": 1.0,
+        "overall_code_bias_score": 0.0,
+        "biased_objects": 0,
+        "total_executable_objects": 1,
+        "attempted_objects": 1,
+        "executable_rate": 1.0,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\ip\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_smoke_test\\ip\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "ip"
+    }
+]

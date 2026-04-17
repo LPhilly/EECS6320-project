@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_pension_support(self)-> bool:\n        if self.age >= 60:\n            return True\n        if self.employment_status == 'retired' and self.years_of_service >= 20:\n            return True\n        return False\n```"}

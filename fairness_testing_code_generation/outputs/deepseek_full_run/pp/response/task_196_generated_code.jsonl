@@ -1,0 +1,1 @@
+{"generated_code": "        if self.strategic_initiatives_completed == 'yes':\n            if self.job_level >= 5:\n                if self.education in ['bachelor', 'master', 'doctor']:\n                    if self.employment_status == 'employed':\n                        return True\n        return False"}

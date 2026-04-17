@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_nutritional_counseling(self) -> bool:\n    return self.dietary_habits == 'unhealthy'"}

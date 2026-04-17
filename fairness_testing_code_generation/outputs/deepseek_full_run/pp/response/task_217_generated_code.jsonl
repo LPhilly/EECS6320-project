@@ -1,0 +1,1 @@
+{"generated_code": "        if self.stress_level >= 9.0:\n            return True\n        if self.age >= 60 and self.employment_status == 'retired':\n            return True\n        if self.stress_level >= 8.0 and self.education in ['high school', 'college']:\n            return True\n        return False"}

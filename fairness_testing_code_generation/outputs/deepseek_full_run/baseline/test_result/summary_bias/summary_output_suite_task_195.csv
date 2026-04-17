@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_195\inconsistency_details_variant_1.csv,age,50000,6250,12.50%,"30: 6250, 31: 6250, 44: 6250, 45: 6250, 46: 6250, 59: 6250, 60: 6250"

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.hand_strength == 'strong':\n            return True\n        return False"}

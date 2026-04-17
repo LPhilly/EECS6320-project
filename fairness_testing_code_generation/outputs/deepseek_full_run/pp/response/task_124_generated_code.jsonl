@@ -1,0 +1,1 @@
+{"generated_code": "        if self.background_check_passed != 'yes':\n            return False\n        if self.age < 21:\n            return False\n        if self.employment_status == 'unemployed':\n            return False\n        if self.education in ['high school', 'college']:\n            return False\n        return True"}

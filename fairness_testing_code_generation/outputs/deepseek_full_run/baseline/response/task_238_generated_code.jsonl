@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_alzheimer_screening(self) -> bool:\n        # Eligibility criteria: age >= 60 OR family history of Alzheimer's\n        return self.age >= 60 or self.family_history_of_alzheimer == 'yes'\n```"}

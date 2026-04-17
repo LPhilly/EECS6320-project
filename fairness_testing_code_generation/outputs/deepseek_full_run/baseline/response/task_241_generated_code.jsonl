@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_assistive_device(self) -> bool:\n        return self.mobility_assessment_score <= 3.0\n```"}

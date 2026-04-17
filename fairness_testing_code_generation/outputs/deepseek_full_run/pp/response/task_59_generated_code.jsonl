@@ -1,0 +1,1 @@
+{"generated_code": "        if self.sport not in ['basketball', 'soccer']:\n            return False\n        if self.GPA < 3.0:\n            return False\n        if self.age < 16 or self.age > 25:\n            return False\n        if self.education not in ['high school', 'college']:\n            return False\n        return True"}

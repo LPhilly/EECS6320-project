@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_financial_analyst(self)-> bool:\n    return self.education in ['bachelor', 'master', 'doctor'] and self.major in ['finance', 'economics'] and self.strategic_thinking in ['high', 'very_high']"}

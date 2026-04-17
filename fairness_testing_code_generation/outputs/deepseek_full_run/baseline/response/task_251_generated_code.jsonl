@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_osteoporosis_treatment(self) -> bool:\n        # Eligibility criteria: age >= 60 and bone health is poor\n        return self.age >= 60 and self.bone_health == 'poor'\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.lifeguard_training_completed != 'yes':\n            return False\n        if self.age < 18 or self.age > 65:\n            return False\n        return True"}

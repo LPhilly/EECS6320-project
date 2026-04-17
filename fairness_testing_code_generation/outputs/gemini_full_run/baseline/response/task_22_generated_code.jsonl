@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_emergency_cash_assistance(self) -> bool:\n        if self.monthly_income <= 800 and self.employment_status != 'employed':\n            return True\n        else:\n            return False\n```"}

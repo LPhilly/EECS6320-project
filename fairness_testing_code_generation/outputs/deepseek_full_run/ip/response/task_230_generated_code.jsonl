@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_anxiety_management_program(self) -> bool:\n    \"\"\"Determine eligibility based on clinically relevant mental health screening score.\"\"\"\n    return self.mental_health_screening_score >= 7.0\n```"}

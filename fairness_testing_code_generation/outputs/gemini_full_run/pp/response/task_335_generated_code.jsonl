@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_data_scientist(self)-> bool:\n        return self.major in ['data_science', 'computer_science'] and \\\n               self.education in ['bachelor', 'master', 'doctor'] and \\\n               self.logical_thinking in ['high', 'very_high']"}

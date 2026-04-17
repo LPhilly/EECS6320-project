@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef suitable_for_surfing(self) -> bool:\n    return (\n        self.adventurous_spirit in ['high', 'very_high'] and\n        self.love_for_water in ['high', 'very_high']\n    )\n```"}

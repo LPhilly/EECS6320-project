@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_youth_education_grant(self)-> bool:\n        return self.age <= 30 and self.GPA >= 3.0 and self.family_income <= 20000\n```"}

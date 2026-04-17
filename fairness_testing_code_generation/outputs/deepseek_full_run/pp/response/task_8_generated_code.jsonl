@@ -1,0 +1,1 @@
+{"generated_code": "        if self.years_of_service >= 20:\n            return True\n        if self.service_disability_rating >= 30:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_food_vendor_license(self) -> bool:\n        return (\n            self.health_inspection_passed == 'yes' and\n            self.age >= 18 and\n            self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']\n        )\n```"}

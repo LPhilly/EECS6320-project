@@ -1,0 +1,1 @@
+{"generated_code": "        if self.department == \"sales\":\n            return self.years_of_service >= 5\n        elif self.department == \"engineering\":\n            return self.education in [\"bachelor\", \"master\", \"doctor\"]\n        else:\n            return False"}

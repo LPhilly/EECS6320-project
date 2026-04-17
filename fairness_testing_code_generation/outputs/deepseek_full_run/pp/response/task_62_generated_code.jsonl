@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria: GPA must be 4.0 and extracurricular_activities must be 'yes'\n        return self.GPA == 4.0 and self.extracurricular_activities == 'yes'"}

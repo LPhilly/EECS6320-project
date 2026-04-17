@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_pet_keeping(self) -> bool:\n        if self.love_for_animals in ['high', 'very_high']:\n            if self.employment_status in ['employed', 'retired']:\n                if self.age >= 30:\n                    return True\n        return False"}

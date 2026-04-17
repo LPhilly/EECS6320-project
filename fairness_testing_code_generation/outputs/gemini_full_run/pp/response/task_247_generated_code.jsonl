@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cardiovascular_screening(self) -> bool:\n    return self.age >= 40 or self.hypertension_diagnosis == 'yes'"}

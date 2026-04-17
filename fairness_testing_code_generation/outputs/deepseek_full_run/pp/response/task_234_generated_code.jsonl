@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 45:\n            return True\n        if self.age < 45 and self.age >= 30:\n            if self.blood_glucose_level > 125.0:\n                return True\n        return False"}

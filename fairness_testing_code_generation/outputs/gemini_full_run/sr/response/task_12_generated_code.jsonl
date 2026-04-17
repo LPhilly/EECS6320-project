@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_welfare_assistance(self)-> bool:\n    if self.employment_status == 'unemployed':\n        return True\n    if self.employment_status == 'retired' and self.age >= 60:\n        return True\n    if self.dependents_count >= 4:\n        return True\n    return False"}

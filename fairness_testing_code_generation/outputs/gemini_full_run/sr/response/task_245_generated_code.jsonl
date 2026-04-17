@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_glaucoma_screening(self) -> bool:\n    if self.age >= 40 or self.family_history_of_glaucoma == 'yes':\n        return True\n    return False"}

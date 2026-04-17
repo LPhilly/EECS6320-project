@@ -1,0 +1,1 @@
+{"generated_code": "    # Check if the person has the relevant major and sufficient communication skills\n    return self.major == 'human_resources' and self.communication_skills in ['high', 'very_high']"}

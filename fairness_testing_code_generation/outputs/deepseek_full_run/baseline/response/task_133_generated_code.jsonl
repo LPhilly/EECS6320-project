@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 30:\n            return False\n        if self.auction_training_completed != 'yes':\n            return False\n        if self.employment_status == 'unemployed':\n            return False\n        if self.education in ['high school', 'college']:\n            return False\n        return True"}

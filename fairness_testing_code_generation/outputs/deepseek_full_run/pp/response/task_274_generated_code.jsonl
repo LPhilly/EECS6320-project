@@ -1,0 +1,1 @@
+{"generated_code": "        # Chess suitability is based on strategic thinking ability\n        return self.strategic_thinking in ['good', 'excellent']"}

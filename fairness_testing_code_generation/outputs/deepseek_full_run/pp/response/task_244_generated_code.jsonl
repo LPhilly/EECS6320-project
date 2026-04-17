@@ -1,0 +1,1 @@
+{"generated_code": "        if self.thyroid_function_test_result in ['hypothyroidism', 'hyperthyroidism']:\n            return True\n        return False"}

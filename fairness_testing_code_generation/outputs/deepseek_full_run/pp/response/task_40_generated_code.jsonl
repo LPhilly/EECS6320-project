@@ -1,0 +1,1 @@
+{"generated_code": "        # Applicants are eligible if damage assessment is at least 15000 and annual income is below 25000.\n        return self.damage_assessment >= 15000 and self.annual_income < 25000"}

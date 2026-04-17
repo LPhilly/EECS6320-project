@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_hearing_aid_program(self) -> bool:\n    return self.hearing_test_result == 'requires_aid'\n```"}

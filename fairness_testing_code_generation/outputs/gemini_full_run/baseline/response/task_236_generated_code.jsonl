@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_statin_therapy(self) -> bool:\n    if self.age >= 40 and self.cholesterol_level >= 200.0:\n        return True\n    return False"}

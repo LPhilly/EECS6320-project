@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_medicaid(self) -> bool:\n        # Eligibility condition: annual income must be at or below the federal poverty level\n        # For a single person household in 2023, the threshold is $14,580\n        # We'll use a threshold of $15,000 for simplicity in this example\n        return self.annual_income <= 15000\n```"}

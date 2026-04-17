@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_marketing(self) -> bool:\n        return (\n            self.major == 'marketing' or\n            (self.major == 'business_administration' and\n             self.creativity in ['high', 'very_high'])\n        )\n```"}

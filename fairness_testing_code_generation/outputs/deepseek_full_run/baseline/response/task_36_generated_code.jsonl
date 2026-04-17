@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_substance_abuse_counseling(self) -> bool:\n        return self.years_of_abuse >= 2\n```"}

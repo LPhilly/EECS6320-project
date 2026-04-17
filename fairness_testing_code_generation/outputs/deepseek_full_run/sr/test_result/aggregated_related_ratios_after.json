@@ -1,0 +1,2374 @@
+{
+    "0": {
+        "attribute_counts": {
+            "income": 1,
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "1": {
+        "attribute_counts": {
+            "annual_income": 1,
+            "household_size": 1,
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "2": {
+        "attribute_counts": {
+            "monthly_rent": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "3": {
+        "attribute_counts": {
+            "household_income": 1,
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "4": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "5": {
+        "attribute_counts": {
+            "monthly_income": 1,
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "6": {
+        "attribute_counts": {
+            "disability_percentage": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "7": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "8": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "service_disability_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "9": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "10": {
+        "attribute_counts": {
+            "GPA": 1,
+            "family_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "11": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "12": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "dependents_count": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "13": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "14": {
+        "attribute_counts": {
+            "household_income": 1,
+            "household_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "15": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "16": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "17": {
+        "attribute_counts": {
+            "annual_income": 1,
+            "household_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "18": {
+        "attribute_counts": {
+            "damage_assessment": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "19": {
+        "attribute_counts": {
+            "annual_income": 1,
+            "distance_to_work": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "20": {
+        "attribute_counts": {
+            "age": 1,
+            "care_requirement_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "21": {
+        "attribute_counts": {
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "22": {
+        "attribute_counts": {
+            "monthly_income": 1,
+            "family_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "23": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "24": {
+        "attribute_counts": {
+            "monthly_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "25": {
+        "attribute_counts": {
+            "monthly_rent": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "26": {
+        "attribute_counts": {
+            "annual_income": 1,
+            "household_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "27": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "28": {
+        "attribute_counts": {
+            "household_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "29": {
+        "attribute_counts": {
+            "distance_to_work": 1,
+            "monthly_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "30": {
+        "attribute_counts": {
+            "number_of_dependents": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "31": {
+        "attribute_counts": {
+            "age": 1,
+            "care_needs_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "32": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "33": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "34": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "disability_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "35": {
+        "attribute_counts": {
+            "annual_income": 1,
+            "household_size": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "36": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "37": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "38": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "39": {
+        "attribute_counts": {
+            "years_of_treatment": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "40": {
+        "attribute_counts": {
+            "damage_assessment": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "41": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "42": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "43": {
+        "attribute_counts": {
+            "damage_assessment": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "44": {
+        "attribute_counts": {
+            "hours_volunteered": 1,
+            "community_service_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "45": {
+        "attribute_counts": {
+            "monthly_rent": 1,
+            "annual_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "46": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "dependents_count": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "47": {
+        "attribute_counts": {
+            "family_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "48": {
+        "attribute_counts": {
+            "monthly_income": 1,
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "49": {
+        "attribute_counts": {
+            "distance_to_work": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "50": {
+        "attribute_counts": {
+            "household_income": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "51": {
+        "attribute_counts": {
+            "enrollment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "52": {
+        "attribute_counts": {
+            "SAT_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "53": {
+        "attribute_counts": {
+            "undergraduate_GPA": 1,
+            "research_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "54": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "55": {
+        "attribute_counts": {
+            "GPA": 1,
+            "extracurricular_activities": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "56": {
+        "attribute_counts": {
+            "thesis_topic": 1,
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "57": {
+        "attribute_counts": {
+            "TOEFL_score": 1,
+            "undergraduate_GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "58": {
+        "attribute_counts": {
+            "GPA": 1,
+            "language_proficiency": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "59": {
+        "attribute_counts": {
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "60": {
+        "attribute_counts": {
+            "enrollment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "61": {
+        "attribute_counts": {
+            "GPA": 1,
+            "credits_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "62": {
+        "attribute_counts": {
+            "extracurricular_activities": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "63": {
+        "attribute_counts": {
+            "GPA": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "64": {
+        "attribute_counts": {
+            "GPA": 1,
+            "research_publications": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "65": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "66": {
+        "attribute_counts": {
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "67": {
+        "attribute_counts": {
+            "GPA": 1,
+            "language_proficiency": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "68": {
+        "attribute_counts": {
+            "honors_courses": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "69": {
+        "attribute_counts": {
+            "research_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "70": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "71": {
+        "attribute_counts": {
+            "leadership_roles": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "72": {
+        "attribute_counts": {
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "73": {
+        "attribute_counts": {
+            "GPA": 1,
+            "enrollment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "74": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "75": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "76": {
+        "attribute_counts": {
+            "published_papers": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "77": {
+        "attribute_counts": {
+            "GPA": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "78": {
+        "attribute_counts": {
+            "GPA": 1,
+            "employment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "79": {
+        "attribute_counts": {
+            "GPA": 1,
+            "enrollment_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "80": {
+        "attribute_counts": {
+            "GPA": 1,
+            "community_service": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "81": {
+        "attribute_counts": {
+            "GPA": 1,
+            "research_interest": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "82": {
+        "attribute_counts": {
+            "GPA": 1,
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "83": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "84": {
+        "attribute_counts": {
+            "GPA": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "85": {
+        "attribute_counts": {
+            "GPA": 1,
+            "thesis_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "86": {
+        "attribute_counts": {
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "87": {
+        "attribute_counts": {
+            "GPA": 1,
+            "research_publications": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "88": {
+        "attribute_counts": {
+            "TOEFL_score": 1,
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "89": {
+        "attribute_counts": {
+            "credits_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "90": {
+        "attribute_counts": {
+            "research_proposal_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "91": {
+        "attribute_counts": {
+            "GPA": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "92": {
+        "attribute_counts": {
+            "GPA": 1,
+            "mentorship_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "93": {
+        "attribute_counts": {
+            "extracurricular_activities": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "94": {
+        "attribute_counts": {
+            "GPA": 1,
+            "language_proficiency": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "95": {
+        "attribute_counts": {
+            "GPA": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "96": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "97": {
+        "attribute_counts": {
+            "GPA": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "98": {
+        "attribute_counts": {
+            "community_service": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "99": {
+        "attribute_counts": {
+            "GPA": 1,
+            "honors_courses": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "100": {
+        "attribute_counts": {
+            "GPA": 1,
+            "community_involvement": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "101": {
+        "attribute_counts": {
+            "academic_advisor_recommendation": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "102": {
+        "attribute_counts": {
+            "vision_test_passed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "103": {
+        "attribute_counts": {
+            "residency_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "104": {
+        "attribute_counts": {
+            "safety_course_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "105": {
+        "attribute_counts": {
+            "flight_hours_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "106": {
+        "attribute_counts": {
+            "safety_course_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "107": {
+        "attribute_counts": {
+            "education": 1,
+            "experience_years": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "108": {
+        "attribute_counts": {
+            "residency_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "109": {
+        "attribute_counts": {
+            "education_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "110": {
+        "attribute_counts": {
+            "business_plan_submitted": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "111": {
+        "attribute_counts": {
+            "apprenticeship_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "112": {
+        "attribute_counts": {
+            "health_inspection_passed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "113": {
+        "attribute_counts": {
+            "background_check_passed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "114": {
+        "attribute_counts": {
+            "business_location": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "115": {
+        "attribute_counts": {
+            "training_hours_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "116": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "117": {
+        "attribute_counts": {
+            "pharmacy_degree": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "118": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "119": {
+        "attribute_counts": {
+            "nursing_degree": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "120": {
+        "attribute_counts": {
+            "training_hours_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "121": {
+        "attribute_counts": {
+            "apprenticeship_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "122": {
+        "attribute_counts": {
+            "training_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "123": {
+        "attribute_counts": {
+            "cosmetology_school_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "124": {
+        "attribute_counts": {
+            "background_check_passed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "125": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "126": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "127": {
+        "attribute_counts": {
+            "nautical_miles_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "128": {
+        "attribute_counts": {
+            "training_certification": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "129": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "130": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "131": {
+        "attribute_counts": {
+            "certification_obtained": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "132": {
+        "attribute_counts": {
+            "certification_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "133": {
+        "attribute_counts": {
+            "auction_training_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "134": {
+        "attribute_counts": {
+            "degree_in_environmental_science": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "135": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 0
+    },
+    "136": {
+        "attribute_counts": {
+            "surveying_degree": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "137": {
+        "attribute_counts": {
+            "training_hours_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "138": {
+        "attribute_counts": {
+            "bartending_course_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "139": {
+        "attribute_counts": {
+            "lifeguard_training_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "140": {
+        "attribute_counts": {
+            "food_safety_course_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "141": {
+        "attribute_counts": {
+            "diving_certification": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "142": {
+        "attribute_counts": {
+            "health_code_compliance": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "143": {
+        "attribute_counts": {
+            "riding_course_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "144": {
+        "attribute_counts": {
+            "media_studies_degree": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "145": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "146": {
+        "attribute_counts": {
+            "business_plan_submitted": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "147": {
+        "attribute_counts": {
+            "logistics_experience_years": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "148": {
+        "attribute_counts": {
+            "animal_handling_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "149": {
+        "attribute_counts": {
+            "certified_arborist": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "150": {
+        "attribute_counts": {
+            "event_management_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "151": {
+        "attribute_counts": {
+            "age": 1,
+            "fire_safety_certification": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "152": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "job_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "153": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "performance_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "154": {
+        "attribute_counts": {
+            "job_level": 1,
+            "leadership_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "155": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "156": {
+        "attribute_counts": {
+            "years_of_service": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "157": {
+        "attribute_counts": {
+            "certifications_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "158": {
+        "attribute_counts": {
+            "performance_rating": 1,
+            "years_of_service": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "159": {
+        "attribute_counts": {
+            "project_lead_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "160": {
+        "attribute_counts": {
+            "job_level": 1,
+            "performance_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "161": {
+        "attribute_counts": {
+            "training_program_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "162": {
+        "attribute_counts": {
+            "job_level": 1,
+            "special_project_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "163": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "technical_skills_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "164": {
+        "attribute_counts": {
+            "community_service_hours": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "165": {
+        "attribute_counts": {
+            "job_level": 1,
+            "years_of_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "166": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "wellness_program_participation": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "167": {
+        "attribute_counts": {
+            "job_level": 1,
+            "mentorship_program_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "168": {
+        "attribute_counts": {
+            "performance_rating": 1,
+            "years_of_service": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "169": {
+        "attribute_counts": {
+            "certifications": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "170": {
+        "attribute_counts": {
+            "job_level": 1,
+            "teamwork_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "171": {
+        "attribute_counts": {
+            "job_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "172": {
+        "attribute_counts": {
+            "job_level": 1,
+            "innovation_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "173": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "customer_satisfaction_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "174": {
+        "attribute_counts": {
+            "training_hours_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "175": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "176": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "innovation_contributions": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "177": {
+        "attribute_counts": {
+            "attendance_record": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "178": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "peer_feedback_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "179": {
+        "attribute_counts": {
+            "job_level": 1,
+            "cross_functional_experience": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "180": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "technical_certifications": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "181": {
+        "attribute_counts": {
+            "diversity_initiatives_participation": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "182": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "leadership_feedback_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "183": {
+        "attribute_counts": {
+            "work_life_balance_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "184": {
+        "attribute_counts": {
+            "job_level": 1,
+            "internal_training_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "185": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "innovation_projects_participation": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "186": {
+        "attribute_counts": {
+            "job_level": 1,
+            "coaching_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "187": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "safety_record": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "188": {
+        "attribute_counts": {
+            "job_level": 1,
+            "problem_solving_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "189": {
+        "attribute_counts": {
+            "project_completion_rate": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "190": {
+        "attribute_counts": {
+            "collaboration_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "191": {
+        "attribute_counts": {
+            "training_sessions_attended": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "192": {
+        "attribute_counts": {
+            "community_involvement": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "193": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "leadership_potential_rating": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "194": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "195": {
+        "attribute_counts": {
+            "diversity_and_inclusion_involvement": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "196": {
+        "attribute_counts": {
+            "job_level": 1,
+            "strategic_initiatives_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "197": {
+        "attribute_counts": {
+            "years_of_experience": 1,
+            "training_courses_completed": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "198": {
+        "attribute_counts": {
+            "performance_improvement": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "199": {
+        "attribute_counts": {
+            "years_of_service": 1,
+            "community_outreach_involvement": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "200": {
+        "attribute_counts": {
+            "job_level": 1,
+            "mentorship_hours": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "201": {
+        "attribute_counts": {
+            "technical_contributions": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "202": {
+        "attribute_counts": {
+            "training_completion_rate": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "203": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "204": {
+        "attribute_counts": {
+            "smoking_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "205": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_heart_disease": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "206": {
+        "attribute_counts": {
+            "cholesterol_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "207": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "208": {
+        "attribute_counts": {
+            "age": 1,
+            "physical_activity_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "209": {
+        "attribute_counts": {
+            "mental_health_history": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "210": {
+        "attribute_counts": {
+            "blood_sugar_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "211": {
+        "attribute_counts": {
+            "age": 1,
+            "sleep_quality_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "212": {
+        "attribute_counts": {
+            "immunization_history": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "213": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_cancer": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "214": {
+        "attribute_counts": {
+            "vision_test_result": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "215": {
+        "attribute_counts": {
+            "hearing_test_result": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "216": {
+        "attribute_counts": {
+            "dietary_habits": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "217": {
+        "attribute_counts": {
+            "stress_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "218": {
+        "attribute_counts": {
+            "mobility_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "219": {
+        "attribute_counts": {
+            "immune_system_health": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "220": {
+        "attribute_counts": {
+            "substance_use_history": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "221": {
+        "attribute_counts": {
+            "fall_risk_assessment_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "222": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "223": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "224": {
+        "attribute_counts": {
+            "cognitive_assessment_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "225": {
+        "attribute_counts": {
+            "alcohol_consumption": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "226": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "227": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_stroke": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "228": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "229": {
+        "attribute_counts": {
+            "pregnancy_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "230": {
+        "attribute_counts": {
+            "mental_health_screening_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "231": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_osteoporosis": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "232": {
+        "attribute_counts": {
+            "blood_pressure_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "233": {
+        "attribute_counts": {
+            "age": 1,
+            "vaccination_history": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "234": {
+        "attribute_counts": {
+            "blood_glucose_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "235": {
+        "attribute_counts": {
+            "exercise_frequency": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "236": {
+        "attribute_counts": {
+            "cholesterol_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "237": {
+        "attribute_counts": {
+            "dental_health_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "238": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_alzheimer": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "239": {
+        "attribute_counts": {
+            "skin_health_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "240": {
+        "attribute_counts": {
+            "eye_health_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "241": {
+        "attribute_counts": {
+            "mobility_assessment_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "242": {
+        "attribute_counts": {
+            "respiratory_health_status": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "243": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "244": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "245": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_glaucoma": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "246": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_breast_cancer": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "247": {
+        "attribute_counts": {
+            "age": 1,
+            "hypertension_diagnosis": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "248": {
+        "attribute_counts": {
+            "genetic_disorder_risk": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "249": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "250": {
+        "attribute_counts": {
+            "age": 1,
+            "smoking_history": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "251": {
+        "attribute_counts": {
+            "age": 1,
+            "bone_health": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "252": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "253": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "254": {
+        "attribute_counts": {
+            "age": 1,
+            "family_history_of_celiac_disease": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "255": {
+        "attribute_counts": {
+            "sleep_apnea_risk_score": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "256": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "257": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "258": {
+        "attribute_counts": {
+            "age": 1,
+            "sun_exposure_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "259": {
+        "attribute_counts": {
+            "chronic_migraines": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "260": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "261": {
+        "attribute_counts": {
+            "blood_pressure_control": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "262": {
+        "attribute_counts": {
+            "stroke_risk_factors": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "263": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "264": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "265": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "266": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "267": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "268": {
+        "attribute_counts": {
+            "creativity_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "269": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "270": {
+        "attribute_counts": {
+            "dexterity": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "271": {
+        "attribute_counts": {
+            "flexibility": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "272": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "273": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "274": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "275": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "276": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "277": {
+        "attribute_counts": {
+            "interest_in_culture": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "278": {
+        "attribute_counts": {
+            "artistic_ability": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "279": {
+        "attribute_counts": {
+            "patience_level": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "280": {
+        "attribute_counts": {
+            "hand_strength": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "281": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "282": {
+        "attribute_counts": {
+            "sense_of_adventure": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "283": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "284": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "285": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "286": {
+        "attribute_counts": {
+            "artistic_talent": 1,
+            "creativity": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "287": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "288": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "289": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "290": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "291": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "292": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "293": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "294": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "295": {
+        "attribute_counts": {
+            "major": 1,
+            "attention_to_detail": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "296": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "297": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "298": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "299": {
+        "attribute_counts": {
+            "major": 1,
+            "communication_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "300": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "301": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "302": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "303": {
+        "attribute_counts": {
+            "major": 1,
+            "critical_thinking_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "304": {
+        "attribute_counts": {
+            "major": 1,
+            "scientific_aptitude": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "305": {
+        "attribute_counts": {
+            "major": 1,
+            "artistic_talent": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "306": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "307": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "308": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "309": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "310": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "311": {
+        "attribute_counts": {
+            "major": 1,
+            "technical_aptitude": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "312": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "313": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "314": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "315": {
+        "attribute_counts": {
+            "language_proficiency": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "316": {
+        "attribute_counts": {
+            "major": 1,
+            "attention_to_detail": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "317": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "318": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "319": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "320": {
+        "attribute_counts": {
+            "major": 1,
+            "spatial_awareness": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "321": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "322": {
+        "attribute_counts": {
+            "major": 1,
+            "technical_aptitude": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "323": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "324": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "325": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "326": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "327": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "328": {
+        "attribute_counts": {
+            "major": 1,
+            "communication_skills": 1,
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "329": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "330": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "331": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "332": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "333": {
+        "attribute_counts": {
+            "major": 1,
+            "attention_to_detail": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "334": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "335": {
+        "attribute_counts": {
+            "major": 1,
+            "logical_thinking": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "336": {
+        "attribute_counts": {
+            "major": 1,
+            "education": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "337": {
+        "attribute_counts": {
+            "major": 1,
+            "communication_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "338": {
+        "attribute_counts": {
+            "major": 1,
+            "creativity": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "339": {
+        "attribute_counts": {
+            "major": 1,
+            "mathematical_aptitude": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "340": {
+        "attribute_counts": {
+            "major": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    },
+    "341": {
+        "attribute_counts": {},
+        "objects_with_related": 0,
+        "total_objects": 1
+    },
+    "342": {
+        "attribute_counts": {
+            "major": 1,
+            "communication_skills": 1
+        },
+        "objects_with_related": 1,
+        "total_objects": 1
+    }
+}

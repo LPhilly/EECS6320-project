@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_video_game_designer(self)-> bool:\n        if self.major == 'game_design' and self.creativity == 'very_high' and self.education not in ['high school', 'college']:\n            return True\n        return False\n```"}

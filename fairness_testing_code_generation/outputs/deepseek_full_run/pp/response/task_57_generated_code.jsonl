@@ -1,0 +1,1 @@
+{"generated_code": "        if self.TOEFL_score >= 100 and self.undergraduate_GPA >= 3.5:\n            return True\n        return False"}

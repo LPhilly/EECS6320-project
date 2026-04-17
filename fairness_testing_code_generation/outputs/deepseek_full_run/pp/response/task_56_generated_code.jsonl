@@ -1,0 +1,1 @@
+{"generated_code": "        if self.thesis_topic != 'approved':\n            return False\n        if self.GPA < 3.5:\n            return False\n        if self.education not in ['master', 'doctor']:\n            return False\n        return True"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_phd_program(self) -> bool:\n    if self.education in ['master', 'doctor'] and self.GPA >= 3.7:\n        return True\n    if self.education == 'bachelor' and self.GPA >= 3.7 and self.published_papers == 'yes':\n        return True\n    return False"}

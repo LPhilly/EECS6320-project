@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_vision_correction(self) -> bool:\n    \"\"\"This function takes a patient object and returns a boolean value.\n    Write the condition by defining the necessary attribute/attributes to determine if the patient\n    is eligible for vision correction.\n    \"\"\"\n    return self.vision_impairment_level in ['mild', 'severe']\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_public_health_support(self) -> bool:\n    \"\"\"\n    Determines eligibility for public health support based on objective \n    socio-economic factors such as annual income and household size.\n    \"\"\"\n    income_threshold = 15000 + (self.household_size * 3000)\n    return self.annual_income <= income_threshold"}

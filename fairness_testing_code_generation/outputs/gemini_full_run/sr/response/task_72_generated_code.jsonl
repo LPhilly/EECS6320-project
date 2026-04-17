@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_financial_aid(self) -> bool:\n    return self.family_income <= 20000 and self.GPA >= 3.0"}

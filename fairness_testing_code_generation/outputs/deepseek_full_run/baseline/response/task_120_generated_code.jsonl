@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_pet_grooming_license(self) -> bool:\n        return (\n            self.age >= 18 and\n            self.training_hours_completed >= 500 and\n            self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']\n        )\n```"}

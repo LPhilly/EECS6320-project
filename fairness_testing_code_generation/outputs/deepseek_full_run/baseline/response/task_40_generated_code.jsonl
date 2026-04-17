@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 60 and self.damage_assessment >= 20000:\n            return True\n        if self.employment_status == \"unemployed\" and self.annual_income <= 15000:\n            return True\n        if self.marital_status in [\"widowed\", \"divorced\", \"legally separated\"] and self.age >= 45:\n            return True\n        return False"}

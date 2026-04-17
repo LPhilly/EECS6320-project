@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_mental_health_counseling(self) -> bool:\n        return (\n            self.mental_health_history == 'yes' or\n            self.age < 30 or\n            self.employment_status == 'unemployed' or\n            self.marital_status in ['single', 'divorced', 'legally separated']\n        )\n```"}

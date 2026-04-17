@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_innovation_award(self) -> bool:\n    \"\"\"This function takes an employee object and returns a boolean value.\n    The eligibility is determined based on the employee's professional performance \n    indicated by their innovation rating.\n    \"\"\"\n    return self.innovation_rating >= 5.0"}

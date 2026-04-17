@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_boating_license(self) -> bool:\n        age_eligible = 30 <= self.age <= 60\n        safety_course = self.safety_course_completed == 'yes'\n        return age_eligible and safety_course\n```"}

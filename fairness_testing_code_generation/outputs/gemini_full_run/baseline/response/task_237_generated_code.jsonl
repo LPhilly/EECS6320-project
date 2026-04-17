@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_dental_cleaning(self) -> bool:\n    return self.dental_health_status == 'needs_cleaning'"}

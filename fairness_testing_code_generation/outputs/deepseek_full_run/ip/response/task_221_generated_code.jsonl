@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_fall_prevention_program(self) -> bool:\n        \"\"\"Determine eligibility based on fall risk assessment score.\"\"\"\n        # Eligibility is based solely on clinical risk score\n        return self.fall_risk_assessment_score >= 4.0"}

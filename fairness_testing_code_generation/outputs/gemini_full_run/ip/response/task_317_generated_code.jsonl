@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_actuary(self) -> bool:\n        return (\n            self.major in ['mathematics', 'statistics'] and\n            self.education in ['bachelor', 'master', 'doctor'] and\n            self.logical_thinking in ['high', 'very_high']\n        )"}

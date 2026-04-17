@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_kidney_transplant_evaluation(self) -> bool:\n    if self.chronic_kidney_disease_stage in ['stage_4', 'stage_5']:\n        return True\n    return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "        # Assuming suitability based on age and teamwork preference\n        suitable_age = 18 <= self.age <= 40\n        high_teamwork = self.teamwork_preference in ['high', 'very_high']\n        return suitable_age and high_teamwork"}

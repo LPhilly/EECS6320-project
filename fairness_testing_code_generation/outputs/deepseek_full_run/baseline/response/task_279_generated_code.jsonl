@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_gardening(self)-> bool:\n        suitable_employment = self.employment_status in ['employed', 'retired', 'student']\n        suitable_patience = self.patience_level == 'high'\n        suitable_age = 30 <= self.age <= 60\n        return suitable_employment and suitable_patience and suitable_age"}

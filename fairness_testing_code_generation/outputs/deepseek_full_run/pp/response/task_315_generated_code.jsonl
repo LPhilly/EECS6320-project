@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major not in ['languages', 'linguistics']:\n            return False\n        if self.language_proficiency != 'very_high':\n            return False\n        return True"}

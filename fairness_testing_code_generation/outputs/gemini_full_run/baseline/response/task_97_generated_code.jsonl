@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_peer_tutor_position(self)-> bool:\n        return self.GPA == 4.0 and self.employment_status == 'student' and self.education != 'high school'"}

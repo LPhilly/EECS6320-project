@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_broadcast_license(self)-> bool:\n        return self.age >= 30 and self.media_studies_degree == 'yes'\n```"}

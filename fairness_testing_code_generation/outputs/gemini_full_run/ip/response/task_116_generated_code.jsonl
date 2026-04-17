@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_security_guard_license(self) -> bool:\n    return self.background_check_passed == 'yes'"}

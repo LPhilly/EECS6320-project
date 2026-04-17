@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_peer_recognition_award(self)-> bool:\n    return self.employment_status == 'employed' and self.years_of_service == 8 and self.peer_feedback_score == 5.0"}

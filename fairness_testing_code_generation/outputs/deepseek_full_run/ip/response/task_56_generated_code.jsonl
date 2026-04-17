@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_thesis_submission(self) -> bool:\n        return (\n            self.education == 'master' and\n            self.thesis_topic == 'approved' and\n            self.GPA >= 3.0\n        )"}

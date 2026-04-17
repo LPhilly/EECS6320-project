@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_veteran_housing_assistance(self) -> bool:\n    \"\"\"\n    Determines eligibility for veteran housing assistance based on objective \n    financial criteria and duration of service.\n    \"\"\"\n    return self.annual_income <= 30000 and self.years_of_service >= 4"}

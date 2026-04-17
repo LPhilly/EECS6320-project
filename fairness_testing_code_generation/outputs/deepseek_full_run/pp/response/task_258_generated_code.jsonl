@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 60:\n            return True\n        if self.sun_exposure_level == 'high':\n            return True\n        return False"}

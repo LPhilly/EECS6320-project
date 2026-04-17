@@ -1,0 +1,1 @@
+{"generated_code": "        # Conditions for eligibility\n        if self.apprenticeship_completed != 'yes':\n            return False\n        if self.age < 18:\n            return False\n        if self.education not in ['high school', 'college', 'bachelor', 'master', 'doctor']:\n            return False\n        return True"}

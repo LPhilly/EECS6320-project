@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_catering_license(self) -> bool:\n    \"\"\"This function takes a CateringLicenseApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the applicant\nis eligible for a catering license.\n    \"\"\"\n    return self.food_safety_course_completed == 'yes'\n```"}

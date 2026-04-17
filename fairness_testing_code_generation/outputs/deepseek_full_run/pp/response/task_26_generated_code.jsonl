@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 60:\n            return False\n        if self.annual_income > 20000:\n            return False\n        if self.household_size < 4:\n            return False\n        if self.employment_status not in ['retired', 'unemployed']:\n            return False\n        return True"}

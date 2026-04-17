@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_disaster_recovery_grant(self) -> bool:\n    \"\"\"Determine if the applicant is eligible for a disaster recovery grant.\"\"\"\n    return self.damage_assessment >= 10000 and self.annual_income <= 25000\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_wellness_incentive(self) -> bool:\n    return self.wellness_program_participation == 'yes' and self.employment_status == 'employed'"}

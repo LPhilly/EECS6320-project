@@ -1,0 +1,1 @@
+{"generated_code": "        if self.major != 'electrical_engineering':\n            return False\n        if self.problem_solving_skills not in ['high', 'very_high']:\n            return False\n        if self.education not in ['bachelor', 'master', 'doctor']:\n            return False\n        return True"}

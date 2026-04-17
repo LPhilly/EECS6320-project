@@ -1,0 +1,1 @@
+{"generated_code": "    # Check if the applicant has completed cosmetology school\n    return self.cosmetology_school_completed == 'yes'"}

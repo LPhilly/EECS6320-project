@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_cross_training(self) -> bool:\n        return (\n            self.employment_status == 'employed' and\n            self.years_of_experience >= 2 and\n            self.job_level >= 2 and\n            self.age <= 60 and\n            self.education in ['bachelor', 'master', 'doctor']\n        )\n```"}

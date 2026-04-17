@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_catering_license(self) -> bool:\n        return self.food_safety_course_completed == 'yes' and self.age >= 18\n```"}

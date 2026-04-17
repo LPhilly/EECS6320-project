@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+C:\Users\Jason\Documents\EECS6320-project\fairness_testing_code_generation\outputs\gemini_full_run\sr\test_result\inconsistency_files/task_13\inconsistency_details_variant_1.csv,marital_status,45000,45000,100.00%,"single: 45000, widowed: 45000, divorced: 45000, legally separated: 45000"

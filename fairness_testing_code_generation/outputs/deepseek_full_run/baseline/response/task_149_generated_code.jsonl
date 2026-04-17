@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_arborist_license(self) -> bool:\n        age_eligible = 30 <= self.age <= 60\n        education_eligible = self.education in ['bachelor', 'master', 'doctor']\n        certified_eligible = self.certified_arborist == 'yes'\n        \n        return age_eligible and education_eligible and certified_eligible\n```"}

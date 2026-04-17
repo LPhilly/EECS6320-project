@@ -1,0 +1,1 @@
+{"generated_code": "        if self.certified_arborist == 'yes':\n            return True\n        return False"}

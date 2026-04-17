@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_robotics_engineer(self)-> bool:\n        return self.major in ['robotics', 'electrical_engineering'] and \\\n               self.education in ['bachelor', 'master', 'doctor'] and \\\n               self.technical_aptitude in ['high', 'very_high']\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_exchange_program(self) -> bool:\n    \"\"\"\n    Determines eligibility for the exchange program based on academic performance \n    and language skills, ensuring a merit-based selection process.\n    \"\"\"\n    return self.GPA >= 3.5 and self.language_proficiency == 'advanced'"}

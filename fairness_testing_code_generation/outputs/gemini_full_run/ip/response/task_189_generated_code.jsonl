@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_project_completion_bonus(self) -> bool:\n        return self.project_completion_rate >= 100.0\n```"}

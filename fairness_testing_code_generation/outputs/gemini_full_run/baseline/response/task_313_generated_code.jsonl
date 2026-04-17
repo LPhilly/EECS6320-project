@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_advertising_specialist(self)-> bool:\n    if self.education in ['bachelor', 'master', 'doctor'] and \\\n       self.major in ['marketing', 'communications'] and \\\n       self.creative_thinking in ['high', 'very_high']:\n        return True\n    return False"}

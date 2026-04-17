@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_free_lunch_program(self) -> bool:\n        if self.household_income <= 15000:\n            return True\n        if self.household_income <= 25000 and self.number_of_children >= 3:\n            return True\n        return False"}

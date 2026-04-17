@@ -1,0 +1,1 @@
+{"generated_code": "        if self.mentorship_program_completed == 'yes':\n            if self.employment_status == 'employed':\n                if self.job_level >= 5:\n                    return True\n        return False"}

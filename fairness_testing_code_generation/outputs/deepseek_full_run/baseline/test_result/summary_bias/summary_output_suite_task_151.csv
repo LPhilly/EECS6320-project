@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_151\inconsistency_details_variant_1.csv,education,45000,17500,38.89%,"bachelor: 17500, master: 17500, doctor: 17500"

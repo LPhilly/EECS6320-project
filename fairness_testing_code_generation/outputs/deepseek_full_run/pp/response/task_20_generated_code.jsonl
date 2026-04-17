@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 60 and self.care_requirement_level >= 3:\n            return True\n        return False"}

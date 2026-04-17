@@ -1,0 +1,1 @@
+{"generated_code": "        if self.community_service_hours >= 100:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_department_transfer(self) -> bool:\n    \"\"\"Check if employee is eligible for department transfer.\"\"\"\n    return (\n        self.employment_status == \"employed\" and\n        self.years_of_service >= 3 and\n        self.department in [\"sales\", \"engineering\"]\n    )\n```"}

@@ -1,0 +1,4 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_67\inconsistency_details_variant_1.csv,age,50000,3750,7.50%,"30: 3750, 31: 3750, 44: 3750, 45: 3750, 46: 3750, 59: 3750, 60: 3750"
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_67\inconsistency_details_variant_1.csv,employment_status,112500,13125,11.67%,"employed: 13125, student: 13125"
+D:\WorkPlace\EECS6320-project\fairness_testing_code_generation\outputs\deepseek_full_run\baseline\test_result\inconsistency_files/task_67\inconsistency_details_variant_1.csv,education,90000,8750,9.72%,"bachelor: 8750, master: 8750, doctor: 8750"

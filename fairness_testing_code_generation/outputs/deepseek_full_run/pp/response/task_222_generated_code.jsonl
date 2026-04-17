@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria: age >= 45, chronic pain level >= 8.0, and not a student\n        return self.age >= 45 and self.chronic_pain_level >= 8.0 and self.employment_status != 'student'"}

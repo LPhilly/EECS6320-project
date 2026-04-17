@@ -1,0 +1,1 @@
+{"generated_code": "        if self.musical_ear in ['good', 'excellent']:\n            return True\n        return False"}

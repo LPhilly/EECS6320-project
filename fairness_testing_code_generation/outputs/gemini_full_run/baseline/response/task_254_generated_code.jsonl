@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_celiac_disease_screening(self)-> bool:\n    if self.family_history_of_celiac_disease == 'yes':\n        return True\n    return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 16:\n            return False\n        if self.riding_course_completed != 'yes':\n            return False\n        return True"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_novelist(self) -> bool:\n    return self.creative_writing_skills in ['high', 'very_high'] and self.major in ['english', 'creative_writing']"}

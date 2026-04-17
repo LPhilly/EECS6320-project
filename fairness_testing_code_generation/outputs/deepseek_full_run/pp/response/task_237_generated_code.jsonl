@@ -1,0 +1,1 @@
+{"generated_code": "        if self.dental_health_status == 'needs_cleaning':\n            return True\n        return False"}

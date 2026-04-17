@@ -1,0 +1,1 @@
+{"generated_code": "        if self.vision_test_result == \"requires_correction\":\n            return True\n        return False"}

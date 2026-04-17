@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_journalist(self)-> bool:\n        return self.major in ['journalism', 'communications'] and \\\n               self.communication_skills in ['high', 'very_high'] and \\\n               self.education in ['bachelor', 'master', 'doctor']"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tuition_reimbursement(self) -> bool:\n    return self.employment_status == 'employed' and self.education != 'doctor'"}

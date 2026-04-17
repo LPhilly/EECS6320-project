@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_study_grant(self) -> bool:\n    return (\n        self.GPA >= 3.5 and\n        self.financial_need in ['high', 'medium'] and\n        self.education in ['bachelor', 'master', 'doctor'] and\n        self.employment_status in ['student', 'unemployed']\n    )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_youth_job_training(self) -> bool:\n        # Define youth as age 30 or below and focus on those currently seeking training/employment\n        return self.age <= 30 and self.employment_status in ['unemployed', 'student']"}

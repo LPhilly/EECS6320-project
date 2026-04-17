@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_playing_guitar(self) -> bool:\n        return self.musical_ear in ['good', 'excellent']"}

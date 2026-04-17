@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_freight_forwarder_license(self) -> bool:\n    return self.logistics_experience_years >= 3 and self.education in ['college', 'bachelor', 'master', 'doctor']"}

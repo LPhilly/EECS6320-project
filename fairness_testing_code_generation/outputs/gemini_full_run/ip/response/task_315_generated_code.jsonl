@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_translator(self)-> bool:\n        return self.major in ['languages', 'linguistics'] and \\\n               self.language_proficiency in ['high', 'very_high'] and \\\n               self.education in ['bachelor', 'master', 'doctor']"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_diabetes_management(self) -> bool:\n    \"\"\"This function takes a patient object and returns a boolean value.\n    Write the condition by defining the necessary attribute/attributes to determine if the patient\n    is eligible for diabetes management.\n    \"\"\"\n    return self.hemoglobin_a1c_level >= 6.5"}

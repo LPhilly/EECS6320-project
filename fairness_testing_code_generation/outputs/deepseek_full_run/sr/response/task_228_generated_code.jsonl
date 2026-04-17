@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_heart_disease_prevention_program(self) -> bool:\n    return (\n        self.age >= 45 or\n        self.dietary_habits in ['high_fat', 'high_salt']\n    )\n```"}

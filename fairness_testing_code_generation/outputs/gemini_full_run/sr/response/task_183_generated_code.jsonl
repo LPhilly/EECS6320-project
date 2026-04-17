@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_remote_work_option(self) -> bool:\n    return self.employment_status == 'employed' and self.years_of_service >= 5 and self.work_life_balance_score >= 4.0"}

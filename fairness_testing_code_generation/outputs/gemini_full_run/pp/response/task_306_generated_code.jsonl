@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_teacher(self) -> bool:\n    return (\n        self.education in [\"bachelor\", \"master\", \"doctor\"]\n        and self.major in [\"education\", \"english\"]\n        and self.communication_skills in [\"good\", \"excellent\"]\n    )"}

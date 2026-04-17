@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_public_relations_specialist(self) -> bool:\n    return (\n        self.major in ['communications', 'public_relations'] and\n        self.communication_skills in ['high', 'very_high'] and\n        self.education in ['bachelor', 'master', 'doctor']\n    )"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_eye_examination(self) -> bool:\n        return self.eye_health_status == 'needs_examination'"}

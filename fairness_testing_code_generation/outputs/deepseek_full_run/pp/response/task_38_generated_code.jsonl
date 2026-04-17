@@ -1,0 +1,1 @@
+{"generated_code": "        if self.marital_status in ['single', 'widowed', 'divorced', 'legally separated']:\n            if self.number_of_children >= 1:\n                if self.annual_income <= 35000:\n                    if self.employment_status in ['employed', 'unemployed', 'student']:\n                        return True\n        return False"}

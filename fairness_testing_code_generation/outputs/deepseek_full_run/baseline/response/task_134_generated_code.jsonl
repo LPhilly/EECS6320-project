@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_environmental_consultant_license(self) -> bool:\n        return (\n            self.age >= 30 and\n            self.education in ['bachelor', 'master', 'doctor'] and\n            self.degree_in_environmental_science == 'yes'\n        )\n```"}

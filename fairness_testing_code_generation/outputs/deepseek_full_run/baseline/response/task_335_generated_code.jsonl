@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_data_scientist(self) -> bool:\n        return (self.major == 'data_science' or self.major == 'computer_science') and self.logical_thinking in ['high', 'very_high']\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_yoga(self) -> bool:\n        return (\n            self.age >= 30 and\n            self.age <= 60 and\n            self.physical_fitness_level in ['moderate', 'high']\n        )\n```"}

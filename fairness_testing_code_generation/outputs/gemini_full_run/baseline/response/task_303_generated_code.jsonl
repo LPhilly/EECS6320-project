@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_lawyer(self) -> bool:\n    return self.major == 'law' and self.education in ['bachelor', 'master', 'doctor'] and self.critical_thinking_skills in ['high', 'very_high']"}

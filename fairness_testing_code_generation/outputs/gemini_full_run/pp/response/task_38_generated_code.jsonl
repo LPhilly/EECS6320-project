@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_single_parent_support(self) -> bool:\n    single_statuses = ['single', 'widowed', 'divorced', 'legally separated']\n    return (\n        self.marital_status in single_statuses and\n        self.number_of_children > 0 and\n        self.annual_income <= 35000\n    )"}

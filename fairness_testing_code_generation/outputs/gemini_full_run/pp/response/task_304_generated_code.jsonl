@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_biologist(self)-> bool:\n        return self.major in ['biology', 'biochemistry'] and \\\n               self.education in ['bachelor', 'master', 'doctor'] and \\\n               self.scientific_aptitude in ['high', 'very_high']"}

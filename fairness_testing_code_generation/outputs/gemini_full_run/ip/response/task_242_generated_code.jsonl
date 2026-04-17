@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_lung_function_test(self) -> bool:\n        \"\"\"This function takes a patient object and returns a boolean value.\n        Determines eligibility based on respiratory health status.\n        \"\"\"\n        return self.respiratory_health_status == 'at_risk'"}

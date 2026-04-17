@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_peer_tutor_position(self) -> bool:\n        \"\"\"Check eligibility based solely on GPA and subject mastery.\"\"\"\n        return self.GPA >= 3.5 and self.subject_mastery in ['mathematics', 'science']"}

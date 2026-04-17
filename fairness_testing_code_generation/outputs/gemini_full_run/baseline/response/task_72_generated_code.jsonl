@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_financial_aid(self)-> bool:\n    \"\"\"This function takes a FinancialAidApplicant object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to select the student\nwho is eligible to receive financial aid.\n    \"\"\"\n    return self.family_income <= 20000 and self.GPA >= 3.5"}

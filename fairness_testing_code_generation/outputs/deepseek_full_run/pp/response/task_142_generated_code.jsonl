@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18:\n            return False\n        if self.health_code_compliance != 'yes':\n            return False\n        if self.education in ['high school', 'college', 'bachelor', 'master', 'doctor']:\n            return True\n        return False"}

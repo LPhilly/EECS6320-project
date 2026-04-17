@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_thyroid_treatment(self) -> bool:\n        \"\"\"Determine eligibility based solely on clinical thyroid test results.\"\"\"\n        return self.thyroid_function_test_result in ['hypothyroidism', 'hyperthyroidism']"}

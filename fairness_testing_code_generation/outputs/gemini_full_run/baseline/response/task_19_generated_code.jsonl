@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_public_transport_assistance(self)-> bool:\n        if self.annual_income <= 15000 or self.employment_status in ['unemployed', 'student', 'retired'] or self.age >= 60 or self.distance_to_work >= 30:\n            return True\n        return False"}

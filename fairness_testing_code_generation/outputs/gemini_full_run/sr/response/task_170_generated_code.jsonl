@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_team_lead_role(self) -> bool:\n    return self.employment_status == 'employed' and self.job_level == 5 and self.teamwork_rating == 5.0"}

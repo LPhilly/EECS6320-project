@@ -1,0 +1,1 @@
+{"generated_code": "        if self.hearing_loss == 'severe':\n            return True\n        return False"}

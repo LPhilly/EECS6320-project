@@ -1,0 +1,2133 @@
+{
+    "0": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "1": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "2": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "3": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "4": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "5": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "6": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "7": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "8": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "9": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "10": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "11": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "12": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "13": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "marital_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "14": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "15": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "16": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "17": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "18": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "19": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "20": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "21": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "22": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "23": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "24": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "25": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "26": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "27": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "28": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "29": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "30": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "31": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "32": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "33": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "34": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "35": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "36": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "37": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "38": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "marital_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "39": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "40": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "41": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "42": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "43": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "44": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "45": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "46": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "47": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "48": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "49": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "50": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "51": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "52": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "53": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "54": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "55": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "56": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "57": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "58": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "59": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "60": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "61": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "62": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "63": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "64": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1,
+            "race": 1,
+            "employment_status": 1,
+            "education": 1,
+            "marital_status": 1,
+            "religion": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "65": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1,
+            "race": 1,
+            "employment_status": 1,
+            "education": 1,
+            "marital_status": 1,
+            "religion": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "66": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "67": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "68": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "69": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "70": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "71": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "72": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "73": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "74": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "75": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "76": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "77": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "78": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "79": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "80": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "81": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "82": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "83": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "84": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "85": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "86": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "87": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "88": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "89": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "90": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "91": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "92": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "93": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "94": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "95": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "96": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "97": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "98": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "99": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "100": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "101": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "102": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "103": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "104": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "105": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "106": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "107": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "108": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "109": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "110": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "111": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "112": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "113": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "114": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "115": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "116": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "117": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "118": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "119": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "120": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "121": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "122": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "123": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "124": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "125": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "126": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "127": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "128": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "129": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "130": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "131": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "132": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "133": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "134": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "135": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "136": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "137": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "138": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "139": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "140": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "141": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "142": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "143": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "144": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "145": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "146": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "147": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "148": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "149": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "150": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "151": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "152": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "153": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "154": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "155": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "156": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "157": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "158": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "159": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "160": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1,
+            "race": 1,
+            "education": 1,
+            "marital_status": 1,
+            "religion": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "161": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "162": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "163": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "164": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "165": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "166": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "167": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "168": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "169": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "170": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "171": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "172": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "173": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "174": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "175": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "176": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "177": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "178": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "179": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "180": {
+        "attribute_counts": {
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "181": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "182": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "183": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "184": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "185": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "186": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "187": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "188": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "189": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "190": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "191": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "192": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "193": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "194": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "195": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "196": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "197": {
+        "attribute_counts": {
+            "gender": 1,
+            "age": 1,
+            "race": 1,
+            "education": 1,
+            "marital_status": 1,
+            "religion": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "198": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "199": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "200": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "201": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "202": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "203": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "204": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "205": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "206": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "207": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "208": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "209": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "marital_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "210": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "211": {
+        "attribute_counts": {
+            "gender": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "212": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "213": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "214": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "215": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "216": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "217": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "218": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "219": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "220": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "221": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "222": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "223": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "224": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "225": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "226": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "227": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "228": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "229": {
+        "attribute_counts": {
+            "gender": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "230": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "231": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "232": {
+        "attribute_counts": {
+            "employment_status": 1,
+            "education": 1,
+            "marital_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "233": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "234": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "235": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "236": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "237": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "238": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "239": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "240": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "241": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "242": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "243": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "244": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "245": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "246": {
+        "attribute_counts": {
+            "gender": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "247": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "248": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "249": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "250": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "251": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "252": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "253": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "254": {
+        "attribute_counts": {
+            "gender": 1,
+            "race": 1,
+            "religion": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "255": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "256": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "257": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "258": {
+        "attribute_counts": {
+            "race": 1,
+            "employment_status": 1,
+            "education": 1,
+            "marital_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "259": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "260": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "261": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "262": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "263": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "264": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "265": {
+        "attribute_counts": {
+            "gender": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "266": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "267": {
+        "attribute_counts": {
+            "gender": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "268": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "269": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "270": {
+        "attribute_counts": {
+            "gender": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "271": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "272": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "273": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "274": {
+        "attribute_counts": {
+            "age": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "275": {
+        "attribute_counts": {
+            "gender": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "276": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "277": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "278": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "279": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "280": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "281": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "282": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "283": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "284": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "285": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "286": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "287": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "288": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "289": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "290": {
+        "attribute_counts": {
+            "gender": 1,
+            "education": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "291": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "292": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "293": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "294": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "295": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "296": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "297": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "298": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "299": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "300": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "301": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "302": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "303": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "304": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "305": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "306": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "307": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "308": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "309": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "310": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "311": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "312": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "313": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "314": {
+        "attribute_counts": {
+            "gender": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "315": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "316": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "317": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "318": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "319": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "320": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "321": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "322": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "323": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "324": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "325": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "326": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "327": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "328": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "329": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "330": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "331": {
+        "attribute_counts": {
+            "age": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "332": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "333": {
+        "attribute_counts": {
+            "age": 1,
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "334": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "335": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "336": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "337": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 0
+    },
+    "338": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "339": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    },
+    "340": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "341": {
+        "attribute_counts": {
+            "employment_status": 1
+        },
+        "objects_with_bias": 1,
+        "total_objects": 1
+    },
+    "342": {
+        "attribute_counts": {},
+        "objects_with_bias": 0,
+        "total_objects": 1
+    }
+}

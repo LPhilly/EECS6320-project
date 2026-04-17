@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_rural_healthcare_support(self) -> bool:\n    return self.annual_income <= 15000 or self.distance_from_city >= 50"}

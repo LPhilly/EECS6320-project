@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18:\n            return False\n        if self.driving_experience_years < 2:\n            return False\n        if self.employment_status not in ['employed', 'student']:\n            return False\n        if self.education not in ['high school', 'college', 'bachelor', 'master', 'doctor']:\n            return False\n        return True"}

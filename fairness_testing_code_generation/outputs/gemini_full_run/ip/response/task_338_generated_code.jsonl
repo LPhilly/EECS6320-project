@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_video_game_designer(self)-> bool:\n    return self.major in ['game_design', 'computer_science'] and self.creativity in ['high', 'very_high']"}

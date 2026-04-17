@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+C:\Users\Jason\Documents\EECS6320-project\fairness_testing_code_generation\outputs\gemini_full_run\sr\test_result\inconsistency_files/task_87\inconsistency_details_variant_1.csv,education,90000,22500,25.00%,"bachelor: 22500, master: 22500"

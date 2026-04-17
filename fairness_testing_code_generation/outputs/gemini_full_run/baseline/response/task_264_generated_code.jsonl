@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_crocheting(self)-> bool:\n        if self.hand_eye_coordination in ['good', 'excellent']:\n            return True\n        return False\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_community_service_leave(self) -> bool:\n        return (self.community_involvement == 'yes' and \n                self.employment_status == 'employed')\n```"}

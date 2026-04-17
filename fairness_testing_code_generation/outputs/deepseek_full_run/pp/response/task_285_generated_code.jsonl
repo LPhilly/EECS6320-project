@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 18 or self.age > 70:\n            return False\n        if self.hand_eye_coordination not in ['good', 'excellent']:\n            return False\n        if self.focus_concentration not in ['high', 'very_high']:\n            return False\n        return True"}

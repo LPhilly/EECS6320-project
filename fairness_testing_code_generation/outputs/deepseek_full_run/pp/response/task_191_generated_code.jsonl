@@ -1,0 +1,1 @@
+{"generated_code": "        if self.employment_status == \"employed\" and self.training_sessions_attended >= 5:\n            return True\n        return False"}

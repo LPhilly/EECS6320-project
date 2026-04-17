@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_court_reporter_license(self) -> bool:\n    \"\"\"This function takes a CourtReporterLicenseApplicant object and returns a boolean value.\n    The eligibility is determined based on the completion of necessary professional training.\n    \"\"\"\n    return self.stenography_training_completed == 'yes'"}

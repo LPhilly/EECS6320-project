@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_substance_abuse_counseling(self) -> bool:\n    \"\"\"Determine eligibility based on years of abuse, which is a relevant clinical factor.\"\"\"\n    return self.years_of_abuse >= 2"}

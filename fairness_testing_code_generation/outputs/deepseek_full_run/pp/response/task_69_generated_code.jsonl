@@ -1,0 +1,1 @@
+{"generated_code": "        if self.research_experience == 'yes' and self.GPA >= 3.5:\n            return True\n        return False"}

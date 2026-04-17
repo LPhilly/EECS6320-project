@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_resident_assistant_position(self) -> bool:\n    return (\n        self.employment_status == 'student' and\n        self.GPA >= 3.0 and\n        self.leadership_experience == 'yes' and\n        self.education in ['college', 'bachelor', 'master', 'doctor']\n    )"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cosmetology_license(self) -> bool:\n    return self.cosmetology_school_completed == 'yes'"}

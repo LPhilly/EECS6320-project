@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_mental_health_support(self) -> bool:\n    return self.years_of_treatment >= 5\n```"}

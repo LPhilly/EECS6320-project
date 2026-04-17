@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age >= 45 and self.dietary_habits in ['high_fat', 'high_salt']:\n            return True\n        return False"}

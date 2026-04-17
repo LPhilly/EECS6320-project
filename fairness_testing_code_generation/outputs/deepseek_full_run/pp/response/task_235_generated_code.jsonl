@@ -1,0 +1,1 @@
+{"generated_code": "        if self.exercise_frequency == 'low':\n            if self.age >= 60:\n                if self.employment_status in ['retired', 'unemployed']:\n                    return True\n            elif self.age >= 45:\n                if self.employment_status == 'unemployed':\n                    return True\n        return False"}

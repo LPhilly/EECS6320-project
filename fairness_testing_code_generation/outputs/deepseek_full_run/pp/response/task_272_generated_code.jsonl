@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 10 or self.age > 75:\n            return False\n        if self.employment_status in ['retired', 'unemployed']:\n            return False\n        if self.love_for_nature not in ['high', 'very_high']:\n            return False\n        return True"}

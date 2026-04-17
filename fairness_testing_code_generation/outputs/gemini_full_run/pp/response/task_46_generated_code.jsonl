@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_temporary_assistance(self) -> bool:\n        return self.employment_status == 'unemployed' and self.dependents_count >= 1"}

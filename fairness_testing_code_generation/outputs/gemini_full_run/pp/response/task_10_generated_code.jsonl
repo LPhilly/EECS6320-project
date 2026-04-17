@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_education_grant(self) -> bool:\n        \"\"\"This function takes an EducationGrantApplicant object and returns a boolean value.\n        Determines eligibility based on academic performance and financial need.\n        \"\"\"\n        if self.GPA >= 3.5 or self.family_income <= 20000:\n            return True\n        return False"}

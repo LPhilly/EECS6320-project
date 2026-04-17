@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria: income below 15000, unemployed or student, and not retired\n        return (self.annual_income < 15000 and \n                self.employment_status in ['unemployed', 'student'] and \n                self.employment_status != 'retired')"}

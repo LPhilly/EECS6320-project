@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef suitable_for_biologist(self) -> bool:\n    \"\"\"Determine if the person is suitable for a career as a biologist.\"\"\"\n    required_major = 'biology'\n    required_aptitude = 'very_high'\n    \n    return (self.major == required_major and \n            self.scientific_aptitude == required_aptitude)\n```"}

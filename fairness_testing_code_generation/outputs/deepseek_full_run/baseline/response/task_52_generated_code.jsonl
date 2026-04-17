@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_admission(self) -> bool:\n        return (\n            self.SAT_score >= 1400 and\n            self.high_school_GPA >= 3.5 and\n            self.education == 'high school'\n        )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_housing_assistance(self) -> bool:\n    annual_rent = self.monthly_rent * 12\n    rent_burden = annual_rent / self.annual_income if self.annual_income > 0 else 1.0\n    return self.annual_income <= 25000 or rent_burden >= 0.3 or self.employment_status == 'unemployed'"}

@@ -1,0 +1,1 @@
+{"generated_code": "        # Check eligibility based on the specified criteria\n        if self.employment_status == 'employed' and self.distance_to_work > 20:\n            if self.annual_income < 20000:\n                return True\n            elif self.annual_income < 25000 and self.education in ['high school', 'college']:\n                return True\n        return False"}

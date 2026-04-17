@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_transportation_aid(self) -> bool:\n        return (\n            self.monthly_income <= 2000 \n            or self.distance_to_work >= 40 \n            or self.employment_status in ['unemployed', 'student'] \n            or self.age >= 60\n        )"}

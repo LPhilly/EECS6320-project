@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_safety_bonus(self) -> bool:\n        return (\n            self.safety_record == 'excellent' and\n            self.years_of_service >= 5 and\n            self.employment_status == 'employed'\n        )\n```"}

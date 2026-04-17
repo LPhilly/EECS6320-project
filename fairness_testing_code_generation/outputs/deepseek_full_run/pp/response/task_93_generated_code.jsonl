@@ -1,0 +1,1 @@
+{"generated_code": "        if self.GPA < 3.8:\n            return False\n        if self.extracurricular_activities == 'no':\n            return False\n        if self.education not in ['bachelor', 'master', 'doctor']:\n            return False\n        return True"}

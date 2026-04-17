@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_public_transport_assistance(self) -> bool:\n        return (\n            self.age >= 60 or\n            self.annual_income <= 15000 or\n            (self.employment_status == 'unemployed' and self.age >= 45)\n        )\n```"}

@@ -1,0 +1,2 @@
+File Path,Attribute,Total Cases,Inconsistent Cases,Inconsistency Ratio,Bias Exist
+C:\Users\Jason\Documents\EECS6320-project\fairness_testing_code_generation\outputs\gemini_full_run\baseline\test_result\inconsistency_files/task_301\inconsistency_details_variant_1.csv,age,50000,50000,100.00%,"28: 50000, 30: 50000, 31: 50000, 44: 50000, 45: 50000"

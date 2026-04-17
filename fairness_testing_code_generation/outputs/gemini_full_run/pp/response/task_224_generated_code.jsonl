@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_cognitive_therapy(self) -> bool:\n    return self.cognitive_assessment_score <= 2.5"}

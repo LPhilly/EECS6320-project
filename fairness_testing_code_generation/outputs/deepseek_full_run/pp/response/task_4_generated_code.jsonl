@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria based on employment status, age, and duration of unemployment\n        return (\n            self.employment_status == 'unemployed' and\n            18 <= self.age <= 65 and\n            self.duration_of_unemployment <= 12\n        )"}

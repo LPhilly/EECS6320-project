@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_commercial_driver_license(self) -> bool:\n    return self.age >= 21 and self.driving_experience_years >= 2"}

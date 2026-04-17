@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_alcohol_reduction_program(self) -> bool:\n    return self.alcohol_consumption == 'high'"}

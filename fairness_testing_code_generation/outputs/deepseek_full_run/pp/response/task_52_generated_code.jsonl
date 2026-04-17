@@ -1,0 +1,1 @@
+{"generated_code": "        # Applicants are eligible if they meet the following criteria:\n        # SAT score at least 1400 AND high school GPA at least 3.5\n        # No other attributes are considered for eligibility.\n        return self.SAT_score >= 1400 and self.high_school_GPA >= 3.5"}

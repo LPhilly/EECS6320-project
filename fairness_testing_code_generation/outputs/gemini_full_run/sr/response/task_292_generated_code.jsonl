@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_volunteering_at_animal_shelter(self) -> bool:\n    if self.empathy in ['high', 'very_high'] and self.love_for_animals in ['high', 'very_high']:\n        return True\n    return False"}

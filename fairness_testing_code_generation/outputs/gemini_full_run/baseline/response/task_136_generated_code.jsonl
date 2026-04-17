@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_surveyor_license(self) -> bool:\n        if self.surveying_degree == 'yes' and self.age >= 18:\n            return True\n        return False\n```"}

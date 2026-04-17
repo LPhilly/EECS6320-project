@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pain_management_program(self) -> bool:\n    return self.chronic_pain_level >= 7.0"}

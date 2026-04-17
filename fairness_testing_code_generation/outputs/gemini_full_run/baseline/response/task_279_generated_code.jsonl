@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_gardening(self)-> bool:\n        return self.patience_level == 'high' and self.age >= 30\n```"}

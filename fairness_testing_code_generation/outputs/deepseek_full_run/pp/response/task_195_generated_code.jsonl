@@ -1,0 +1,1 @@
+{"generated_code": "        if self.diversity_and_inclusion_involvement == 'yes':\n            return True\n        if self.years_of_service >= 5:\n            return True\n        if self.age >= 60 and self.employment_status == 'retired':\n            return True\n        if self.education in ['master', 'doctor']:\n            return True\n        return False"}

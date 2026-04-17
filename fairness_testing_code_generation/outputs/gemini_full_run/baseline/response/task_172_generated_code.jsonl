@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_innovation_award(self)-> bool:\n    return self.innovation_rating == 5.0 and self.employment_status == 'employed'"}

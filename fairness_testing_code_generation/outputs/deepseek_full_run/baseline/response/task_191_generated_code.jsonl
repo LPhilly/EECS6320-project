@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_training_incentive(self) -> bool:\n        return (\n            self.years_of_service >= 5 and\n            self.training_sessions_attended >= 5\n        )"}

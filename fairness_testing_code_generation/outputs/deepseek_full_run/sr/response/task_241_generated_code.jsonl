@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_assistive_device(self) -> bool:\n    \"\"\"This function takes a patient object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the patient\nis eligible for an assistive device.\n    \"\"\"\n    return self.mobility_assessment_score <= 3.0\n```"}

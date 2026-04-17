@@ -1,0 +1,1 @@
+{"generated_code": "        if self.scientific_research_skills in ['high', 'very_high']:\n            if self.education in ['bachelor', 'master', 'doctor']:\n                if self.major in ['biology', 'chemistry']:\n                    if self.employment_status in ['employed', 'student', 'unemployed']:\n                        return True\n        return False"}

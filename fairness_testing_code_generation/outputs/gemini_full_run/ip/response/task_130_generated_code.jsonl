@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_tattoo_artist_license(self) -> bool:\n    \"\"\"This function determines if the applicant is eligible for a tattoo artist license\n    based on professional qualifications and legal age requirements.\n    \"\"\"\n    return self.apprenticeship_completed == 'yes' and self.age >= 18"}

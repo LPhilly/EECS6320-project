@@ -1,0 +1,1 @@
+{"generated_code": "        if self.employment_status == 'employed' and self.training_courses_completed == 'yes':\n            if self.years_of_experience >= 5:\n                return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_vision_correction_program(self) -> bool:\n        return self.vision_test_result == 'requires_correction'\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "    # Check if the person has a relevant major\n    major_ok = self.major in ['robotics', 'electrical_engineering']\n    # Check if the person has high technical aptitude\n    aptitude_ok = self.technical_aptitude in ['high', 'very_high']\n    # Return True only if both conditions are met\n    return major_ok and aptitude_ok"}

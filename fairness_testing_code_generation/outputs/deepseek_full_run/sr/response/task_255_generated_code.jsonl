@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_sleep_apnea_treatment(self) -> bool:\n    \"\"\"Determine if the patient is eligible for sleep apnea treatment.\"\"\"\n    return self.sleep_apnea_risk_score >= 7.0\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heavy_machinery_operator_license(self) -> bool:\n        \"\"\"This function takes a HeavyMachineryOperatorLicenseApplicant object and returns a boolean value\n        based on professional criteria such as training hours and legal age requirements.\n        \"\"\"\n        return self.training_hours_completed >= 500 and self.age >= 18"}

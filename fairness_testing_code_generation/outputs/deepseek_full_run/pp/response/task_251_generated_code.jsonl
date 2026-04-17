@@ -1,0 +1,1 @@
+{"generated_code": "        if self.bone_health == 'poor':\n            return True\n        if self.bone_health == 'fair':\n            if self.age >= 60:\n                return True\n            if self.gender in ['female', 'transgender', 'non-binary'] and self.age >= 45:\n                return True\n        return False"}

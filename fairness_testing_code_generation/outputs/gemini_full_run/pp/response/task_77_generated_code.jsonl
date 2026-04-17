@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_leadership_scholarship(self) -> bool:\n        return self.leadership_experience == 'yes' and self.GPA >= 3.5"}

@@ -1,0 +1,1 @@
+{"generated_code": "    def suitable_for_pharmacist(self) -> bool:\n        return (\n            self.major == 'pharmacy' and\n            self.education in ['master', 'doctor'] and\n            self.attention_to_detail in ['high', 'very_high']\n        )"}

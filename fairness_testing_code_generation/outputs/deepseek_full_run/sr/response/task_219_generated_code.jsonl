@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_immune_support_program(self) -> bool:\n    \"\"\"Determine if the patient is eligible for an immune support program.\"\"\"\n    return self.immune_system_health == 'weakened'\n```"}

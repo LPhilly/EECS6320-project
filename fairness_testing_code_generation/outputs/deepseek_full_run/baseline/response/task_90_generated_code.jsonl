@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_research_grant(self) -> bool:\n        return (self.age >= 30 and self.age <= 60 and\n                self.GPA >= 3.5 and\n                self.research_proposal_status == 'approved' and\n                self.education in ['bachelor', 'master', 'doctor'])\n```"}

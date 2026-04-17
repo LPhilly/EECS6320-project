@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria: must have at least a bachelor's degree, undergraduate GPA >= 3.5, and research experience.\n        return (self.education in ['bachelor', 'master', 'doctor'] and \n                self.undergraduate_GPA >= 3.5 and \n                self.research_experience == 'yes')"}

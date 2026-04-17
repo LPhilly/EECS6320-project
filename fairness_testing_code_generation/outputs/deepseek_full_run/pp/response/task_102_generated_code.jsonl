@@ -1,0 +1,1 @@
+{"generated_code": "        if self.vision_test_passed != 'yes':\n            return False\n        \n        if self.age < 16:\n            return False\n        \n        return True"}

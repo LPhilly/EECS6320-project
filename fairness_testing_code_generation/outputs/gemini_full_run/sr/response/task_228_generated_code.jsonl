@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heart_disease_prevention_program(self) -> bool:\n    if self.age >= 45 or self.dietary_habits in ['high_fat', 'high_salt']:\n        return True\n    return False"}

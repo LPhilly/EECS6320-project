@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_internship(self) -> bool:\n    return (\n        self.employment_status == \"student\" and\n        self.education in [\"bachelor\", \"master\", \"doctor\"] and\n        self.GPA >= 3.5\n    )\n```"}

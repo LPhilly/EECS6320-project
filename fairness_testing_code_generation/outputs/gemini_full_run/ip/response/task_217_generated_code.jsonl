@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_stress_management_program(self) -> bool:\n        \"\"\"Determines eligibility for a stress management program based on objective stress levels.\"\"\"\n        return self.stress_level >= 7.0"}

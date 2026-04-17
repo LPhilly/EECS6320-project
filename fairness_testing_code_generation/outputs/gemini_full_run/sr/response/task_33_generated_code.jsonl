@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_youth_mentorship(self) -> bool:\n    \"\"\"This function takes a YouthMentorshipApplicant object and returns a boolean value.\n    The eligibility is determined primarily by age, as the program targets youth.\n    \"\"\"\n    return self.age <= 30\n```"}

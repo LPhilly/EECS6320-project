@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_veteran_housing_assistance(self) -> bool:\n        return (\n            self.years_of_service >= 20 and\n            self.annual_income <= 40000\n        )\n```"}

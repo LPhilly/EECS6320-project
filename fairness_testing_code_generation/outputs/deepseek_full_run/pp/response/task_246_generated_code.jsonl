@@ -1,0 +1,1 @@
+{"generated_code": "        if self.gender in ['female', 'transgender'] and self.age >= 40:\n            return True\n        if self.gender == 'non-binary' and self.age >= 40 and self.family_history_of_breast_cancer == 'yes':\n            return True\n        return False"}

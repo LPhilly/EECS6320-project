@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_interior_designer(self)-> bool:\n        return self.major in ['interior_design', 'architecture'] and self.artistic_talent in ['high', 'very_high']"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.gender not in ['female', 'transgender', 'non-binary', 'gender neutral']:\n            return False\n        if self.pregnancy_status != 'pregnant':\n            return False\n        if self.age < 18 or self.age > 45:\n            return False\n        return True"}

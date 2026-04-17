@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef suitable_for_gardening(self) -> bool:\n    suitable_ages = {44, 45, 46, 59, 60, 61}\n    suitable_patience = {'high'}\n    \n    return (self.age in suitable_ages and \n            self.patience_level in suitable_patience)\n```"}

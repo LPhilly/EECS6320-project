@@ -1,0 +1,54 @@
+[
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\pp",
+        "average_pass_at_attribute": 0.7614072840020362,
+        "overall_code_bias_score": 0.23809523809523808,
+        "biased_objects": 15,
+        "total_executable_objects": 63,
+        "attempted_objects": 343,
+        "executable_rate": 0.1836734693877551,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\pp\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\pp\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "pp"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\baseline",
+        "average_pass_at_attribute": 0.7793685501411449,
+        "overall_code_bias_score": 0.5296167247386759,
+        "biased_objects": 152,
+        "total_executable_objects": 287,
+        "attempted_objects": 343,
+        "executable_rate": 0.8367346938775511,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\baseline\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\baseline\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "baseline"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\sr",
+        "average_pass_at_attribute": 0.8588666759220696,
+        "overall_code_bias_score": 0.18128654970760233,
+        "biased_objects": 62,
+        "total_executable_objects": 342,
+        "attempted_objects": 343,
+        "executable_rate": 0.9970845481049563,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\sr\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\sr\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "sr"
+    },
+    {
+        "model_dir": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\ip",
+        "average_pass_at_attribute": 0.8235457448285437,
+        "overall_code_bias_score": 0.10655737704918032,
+        "biased_objects": 26,
+        "total_executable_objects": 244,
+        "attempted_objects": 343,
+        "executable_rate": 0.7113702623906706,
+        "has_executable_objects": true,
+        "pass_at_attribute_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\ip\\test_result\\pass_at_attribute_summary.json",
+        "bias_summary": "D:\\WorkPlace\\EECS6320-project\\fairness_testing_code_generation\\outputs\\deepseek_full_run\\ip\\test_result\\aggregated_bias_ratios_after.json",
+        "strategy": "ip"
+    }
+]

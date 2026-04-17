@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligibility criteria: age >= 60 and care_needs_level >= 3\n        return self.age >= 60 and self.care_needs_level >= 3"}

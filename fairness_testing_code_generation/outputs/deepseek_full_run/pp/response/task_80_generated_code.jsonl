@@ -1,0 +1,1 @@
+{"generated_code": "        # Eligible if GPA is 4.0, community service is 'yes', and education is at least 'bachelor'\n        return self.GPA == 4.0 and self.community_service == 'yes' and self.education in ['bachelor', 'master', 'doctor']"}

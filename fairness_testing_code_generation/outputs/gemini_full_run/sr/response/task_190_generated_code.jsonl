@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_team_collaboration_award(self)-> bool:\n    return self.employment_status == 'employed' and self.collaboration_skills >= 5.0"}

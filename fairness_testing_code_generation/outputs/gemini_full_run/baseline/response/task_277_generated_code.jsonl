@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_traveling(self)-> bool:\n    return self.interest_in_culture == 'high' and self.employment_status in ['employed', 'retired', 'student']"}

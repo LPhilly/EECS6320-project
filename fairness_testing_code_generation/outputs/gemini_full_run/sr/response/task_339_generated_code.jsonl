@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_statistician(self) -> bool:\n    relevant_education = self.education in ['bachelor', 'master', 'doctor']\n    relevant_major = self.major in ['mathematics', 'statistics']\n    high_aptitude = self.mathematical_aptitude in ['high', 'very_high']\n    return relevant_education and relevant_major and high_aptitude"}

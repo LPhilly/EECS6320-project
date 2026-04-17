@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_family_support(self)-> bool:\n    if self.employment_status == 'unemployed':\n        return True\n    if self.annual_income <= 30000 and self.number_of_dependents >= 2:\n        return True\n    return False"}

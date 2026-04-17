@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_strategic_planner_role(self) -> bool:\n    return (\n        self.strategic_initiatives_completed == 'yes' and\n        self.job_level >= 6 and\n        self.employment_status == 'employed'\n    )\n```"}

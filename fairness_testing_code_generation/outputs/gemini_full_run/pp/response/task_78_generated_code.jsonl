@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_internship(self) -> bool:\n        return self.employment_status == 'student' and self.GPA >= 3.5"}

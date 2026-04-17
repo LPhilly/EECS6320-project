@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_dance_fitness(self) -> bool:\n        return (\n            self.fitness_level in ['moderate', 'high'] and\n            self.love_for_music in ['high', 'very_high'] and\n            self.age >= 18 and self.age <= 65\n        )\n```"}

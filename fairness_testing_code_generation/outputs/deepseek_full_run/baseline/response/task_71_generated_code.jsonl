@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_university_honors(self) -> bool:\n        return (\n            self.GPA >= 3.8 and\n            self.leadership_roles == 'yes' and\n            self.education in ['bachelor', 'master', 'doctor']\n        )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_pharmacist_license(self) -> bool:\n    if self.pharmacy_degree == 'yes':\n        return True\n    return False"}

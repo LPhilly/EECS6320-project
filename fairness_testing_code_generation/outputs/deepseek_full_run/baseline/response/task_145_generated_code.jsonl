@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_maritime_captain_license(self) -> bool:\n        age_eligible = 30 <= self.age <= 60\n        sea_service_eligible = self.sea_service_years >= 20\n        return age_eligible and sea_service_eligible\n```"}

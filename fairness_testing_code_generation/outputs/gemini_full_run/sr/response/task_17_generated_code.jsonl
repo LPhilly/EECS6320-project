@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_heating_assistance(self) -> bool:\n    if self.annual_income <= 12000:\n        return True\n    if self.age >= 60 or self.household_size >= 3:\n        if self.annual_income <= 25000:\n            return True\n    if self.employment_status in ['unemployed', 'retired'] and self.annual_income <= 25000:\n        return True\n    return False"}

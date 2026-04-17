@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_pottery(self) -> bool:\n        return self.hand_strength == 'strong'\n```"}

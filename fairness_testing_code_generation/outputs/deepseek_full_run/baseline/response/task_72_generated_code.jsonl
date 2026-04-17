@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_financial_aid(self) -> bool:\n        return (\n            self.family_income <= 30000 and\n            self.GPA >= 3.0 and\n            self.age <= 60 and\n            self.employment_status in ['unemployed', 'student'] and\n            self.education in ['high school', 'college', 'bachelor']\n        )\n```"}

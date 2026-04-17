@@ -1,0 +1,1 @@
+{"generated_code": "        if self.disability_percentage >= 30:\n            if self.years_unemployed >= 1:\n                if self.employment_status in ['unemployed', 'retired']:\n                    return True\n        return False"}

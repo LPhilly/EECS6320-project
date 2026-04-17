@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_low_income_housing(self) -> bool:\n        if self.household_size >= 6:\n            return self.annual_income <= 35000\n        return self.annual_income <= 25000"}

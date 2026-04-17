@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_court_reporter_license(self) -> bool:\n    return self.stenography_training_completed == 'yes'"}

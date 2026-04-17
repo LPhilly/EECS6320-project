@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_rural_healthcare_support(self) -> bool:\n        # Eligibility based on objective criteria: income and distance from city.\n        # Demographic attributes are not used to ensure fairness.\n        return self.annual_income <= 30000 and self.distance_from_city >= 20"}

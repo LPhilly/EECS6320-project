@@ -1,0 +1,1 @@
+{"generated_code": "    def eligible_for_medicaid(self) -> bool:\n        # Medicaid eligibility is primarily determined by financial need.\n        # Income thresholds vary by state, but $15,000 is a common benchmark for individuals.\n        return self.annual_income <= 15000"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def suitable_for_pottery(self) -> bool:\n        return (\n            self.age >= 30 and\n            self.age <= 60 and\n            self.hand_strength == 'strong' and\n            self.employment_status in ['employed', 'retired'] and\n            self.education in ['bachelor', 'master', 'doctor']\n        )\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_exchange_program(self) -> bool:\n        return self.GPA >= 3.5 and self.language_proficiency == 'advanced' and self.employment_status == 'student'"}

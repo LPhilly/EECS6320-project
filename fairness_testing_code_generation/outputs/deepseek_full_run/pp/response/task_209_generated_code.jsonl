@@ -1,0 +1,1 @@
+{"generated_code": "        if self.mental_health_history == 'yes':\n            return True\n        if self.age >= 60 and self.employment_status == 'retired':\n            return True\n        if self.education in ['high school', 'college'] and self.marital_status in ['single', 'divorced', 'legally separated']:\n            return True\n        return False"}

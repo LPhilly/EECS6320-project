@@ -1,0 +1,1 @@
+{"generated_code": "        if self.creativity_level == 'high':\n            return True\n        if self.age <= 45 and self.employment_status in ['employed', 'student']:\n            return True\n        return False"}

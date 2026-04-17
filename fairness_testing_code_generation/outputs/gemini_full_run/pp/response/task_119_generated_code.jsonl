@@ -1,0 +1,1 @@
+{"generated_code": "def eligible_for_nursing_license(self)-> bool:\n        return self.nursing_degree == 'yes'"}

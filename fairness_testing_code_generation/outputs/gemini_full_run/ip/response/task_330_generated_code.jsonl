@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_product_designer(self) -> bool:\n        relevant_majors = ['industrial_design', 'graphic_design']\n        high_creativity = ['high', 'very_high']\n        \n        return self.major in relevant_majors and self.creativity in high_creativity"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_animal_control_officer_license(self) -> bool:\n        if self.age >= 21 and self.animal_handling_experience == 'yes':\n            return True\n        return False\n```"}

@@ -1,0 +1,1 @@
+{"generated_code": "```python\n    def eligible_for_alzheimer_screening(self) -> bool:\n        \"\"\"This function takes a patient object and returns a boolean value.\nWrite the condition by defining the necessary attribute/attributes to determine if the patient\nis eligible for Alzheimer screening.\n        \"\"\"\n        return self.family_history_of_alzheimer == 'yes'\n```"}

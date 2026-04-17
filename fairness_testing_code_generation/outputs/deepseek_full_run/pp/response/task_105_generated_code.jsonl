@@ -1,0 +1,1 @@
+{"generated_code": "        if self.age < 17:\n            return False\n        if self.flight_hours_completed < 250:\n            return False\n        if self.education not in ['bachelor', 'master', 'doctor']:\n            return False\n        return True"}

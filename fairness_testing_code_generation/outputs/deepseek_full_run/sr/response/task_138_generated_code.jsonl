@@ -1,0 +1,1 @@
+{"generated_code": "```python\ndef eligible_for_bartender_license(self) -> bool:\n    return (\n        self.age >= 21 and\n        self.bartending_course_completed == 'yes'\n    )\n```"}

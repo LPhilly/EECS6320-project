@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_advertising_copywriter(self) -> bool:\n    return self.major in ['marketing', 'communications'] and self.creativity in ['high', 'very_high']"}

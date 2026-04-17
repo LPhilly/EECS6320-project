@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_business_consultant(self)-> bool:\n    return (\n        self.major in ['MBA', 'business_administration'] and \n        self.strategic_thinking in ['good', 'excellent'] and \n        self.education in ['bachelor', 'master', 'doctor']\n    )"}

@@ -1,0 +1,1 @@
+{"generated_code": "        if self.employment_status == 'student' and self.financial_need == 'high' and self.GPA >= 3.5:\n            return True\n        return False"}

@@ -1,0 +1,1 @@
+{"generated_code": "def suitable_for_software_engineer(self)-> bool:\n    return self.major in ['computer_science', 'software_engineering'] and self.logical_thinking in ['high', 'very_high']"}
